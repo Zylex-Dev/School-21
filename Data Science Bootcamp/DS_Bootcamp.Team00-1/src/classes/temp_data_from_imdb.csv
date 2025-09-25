@@ -1,0 +1,1001 @@
+movie_id,name,rating,director,budget,wwgross,runtime,origin_country
+1,Toy Story,8.3,John Lasseter,30000000,394436586,1 hour 21 minutes,United States
+2,Jumanji,7.1,Joe Johnston,65000000,262821940,1 hour 44 minutes,United States
+3,Grumpier Old Men,6.7,Howard Deutch,25000000,71518503,1 hour 41 minutes,United States
+4,Waiting to Exhale,6.0,Forest Whitaker,16000000,81452156,2 hours 4 minutes,United States
+5,Father of the Bride Part II,6.1,Charles Shyer,30000000,76594107,1 hour 46 minutes,United States
+6,Heat,8.3,Michael Mann,60000000,187436818,2 hours 50 minutes,United States
+7,Sabrina,6.3,Sydney Pollack,58000000,53696959,2 hours 7 minutes,Germany|United States
+8,Tom and Huck,5.5,Peter Hewitt,,23920048,1 hour 37 minutes,United States
+9,Sudden Death,5.9,Peter Hyams,35000000,64350171,1 hour 51 minutes,United States
+10,GoldenEye,7.2,Martin Campbell,60000000,352194034,2 hours 10 minutes,United Kingdom|United States
+11,The American President,6.8,Rob Reiner,62000000,107879496,1 hour 54 minutes,United States
+12,Dracula: Dead and Loving It,5.8,Mel Brooks,30000000,10772144,1 hour 28 minutes,France|United States
+13,Balto,7.1,Simon Wells,,11349090,1 hour 18 minutes,United States
+14,Nixon,7.1,Oliver Stone,44000000,13681765,3 hours 12 minutes,United States
+15,Cutthroat Island,5.7,Renny Harlin,98000000,10017322,2 hours 4 minutes,France|Italy|Germany|United States
+16,Casino,8.2,Martin Scorsese,52000000,116112375,2 hours 58 minutes,United States|France
+17,Sense and Sensibility,7.7,Ang Lee,16000000,134582776,2 hours 16 minutes,United Kingdom|United States
+18,Four Rooms,6.7,Allison AndersAlexandre RockwellRobert Rodriguez,4000000,4257354,1 hour 38 minutes,United States
+19,Ace Ventura: When Nature Calls,6.4,Steve Oedekerk,30000000,212385533,1 hour 30 minutes,United States
+20,Money Train,5.7,Joseph Ruben,68000000,35431113,1 hour 50 minutes,United States
+21,Get Shorty,6.9,Barry Sonnenfeld,30250000,115101622,1 hour 45 minutes,United States
+22,Copycat,6.6,Jon Amiel,20000000,32051917,2 hours 3 minutes,United States
+23,Assassins,6.3,Richard Donner,50000000,30303072,2 hours 13 minutes,France|United States
+24,Powder,6.6,Victor Salva,9500000,30862156,1 hour 51 minutes,United States
+25,Leaving Las Vegas,7.5,Mike Figgis,3600000,32029928,1 hour 51 minutes,United States
+26,Othello,6.8,Oliver Parker,11000000,2844379,2 hours 3 minutes,United Kingdom|United States
+27,Now and Then,6.8,Lesli Linka Glatter,,37591674,1 hour 42 minutes,United States
+28,Persuasion,7.6,Roger Michell,,5269757,1 hour 43 minutes,United Kingdom|United States|France
+29,La cité des enfants perdus,7.5,Marc CaroJean-Pierre Jeunet,18000000,1783616,1 hour 52 minutes,France|Germany|Spain|Belgium
+30,"Yao a yao, yao dao wai po qiao",7.1,Yimou Zhang,,2086101,1 hour 48 minutes,France|China
+31,Dangerous Minds,6.5,John N. Smith,23000000,179519401,1 hour 39 minutes,United States
+32,Twelve Monkeys,8.0,Terry Gilliam,29000000,168839459,2 hours 9 minutes,United States
+34,Babe,6.9,Chris Noonan,30000000,254134910,1 hour 31 minutes,Australia|United States|United Kingdom
+36,Dead Man Walking,7.5,Tim Robbins,11000000,39363635,2 hours 2 minutes,United Kingdom|United States
+38,It Takes Two,6.0,Andy Tennant,,19474589,1 hour 41 minutes,United States
+39,Clueless,6.9,Amy Heckerling,12000000,56698025,1 hour 37 minutes,United States
+40,"Cry, the Beloved Country",6.8,Darrell Roodt,,670727,1 hour 46 minutes,South Africa|United States
+41,Richard III,7.3,Richard Loncraine,,2748518,1 hour 44 minutes,United Kingdom|United States
+42,Dead Presidents,6.9,Albert HughesAllen Hughes,10000000,24147179,1 hour 59 minutes,United States
+43,Restoration,6.6,Michael Hoffman,19000000,4005941,1 hour 57 minutes,United States|United Kingdom
+44,Mortal Kombat,5.8,Paul W.S. Anderson,18000000,122195920,1 hour 41 minutes,United States
+45,To Die For,6.8,Gus Van Sant,20000000,21286518,1 hour 46 minutes,United Kingdom|Canada|United States
+46,How to Make an American Quilt,6.3,Jocelyn Moorhouse,10000000,41200020,1 hour 57 minutes,United States
+47,Se7en,8.6,David Fincher,33000000,328886817,2 hours 7 minutes,United States
+48,Pocahontas,6.7,Mike GabrielEric Goldberg,55000000,346079773,1 hour 21 minutes,United States|Japan
+49,When Night Is Falling,6.5,Patricia Rozema,,919671,1 hour 34 minutes,Canada
+50,The Usual Suspects,8.5,Bryan Singer,6000000,23341568,1 hour 46 minutes,United States|Germany
+52,Mighty Aphrodite,7.0,Woody Allen,15000000,6468498,1 hour 35 minutes,United States
+53,Lamerica,7.4,Gianni Amelio,,4788331,1 hour 56 minutes,Italy|France|Switzerland|Austria
+54,The Big Green,5.5,Holly Goldberg Sloan,12000000,17736619,1 hour 40 minutes,United States
+55,Georgia,6.5,Ulu Grosbard,,1110104,1 hour 55 minutes,France|United States
+57,Home for the Holidays,6.6,Jodie Foster,20000000,17519169,1 hour 43 minutes,United States
+58,Il postino,7.8,Michael RadfordMassimo Troisi,3000000,21898920,1 hour 48 minutes,Italy|France|Belgium
+60,The Indian in the Cupboard,6.0,Frank Oz,45000000,35656131,1 hour 36 minutes,United States
+61,Eye for an Eye,6.2,John Schlesinger,20000000,26877589,1 hour 41 minutes,United States
+62,Mr. Holland's Opus,7.3,Stephen Herek,23000000,106269971,2 hours 24 minutes,United States
+63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,6.5,Paris Barclay,3800000,20949601,1 hour 29 minutes,United States
+64,Two If by Sea,5.3,Bill Bennett,,10658278,1 hour 36 minutes,United States
+65,Bio-Dome,4.4,Jason Bloom,15000000,13427615,1 hour 28 minutes,United States
+66,Lawnmower Man 2: Beyond Cyberspace,2.6,Farhad Mann,15000000,2409225,1 hour 33 minutes,United States|Japan|United Kingdom
+68,Gazon maudit,6.4,Josiane Balasko,,1026646,1 hour 44 minutes,France
+69,Friday,7.2,F. Gary Gray,3500000,28215918,1 hour 31 minutes,United States
+70,From Dusk Till Dawn,7.2,Robert Rodriguez,19000000,25839496,1 hour 48 minutes,United States|Mexico
+71,Fair Game,4.4,Andrew Sipes,50000000,11534477,1 hour 31 minutes,United States
+72,Kicking and Screaming,6.7,Noah Baumbach,,718490,1 hour 36 minutes,United States
+73,Les misérables,7.4,Claude Lelouch,,740048,2 hours 55 minutes,France
+74,Bed of Roses,6.1,Michael Goldenberg,,27315527,1 hour 27 minutes,United States
+75,Big Bully,4.8,Steve Miner,15000000,2042530,1 hour 30 minutes,United States
+76,Screamers,6.3,Christian Duguay,20000000,5711695,1 hour 48 minutes,Canada|Japan
+77,Nico Icon,7.2,Susanne Ofteringer,,306691,1 hour 10 minutes,Germany|United States
+78,The Crossing Guard,6.3,Sean Penn,9000000,868979,1 hour 51 minutes,United States
+79,The Juror,5.7,Brian Gibson,44000000,22754725,1 hour 58 minutes,United States
+80,Badkonake sefid,7.6,Jafar Panahi,150000,924940,1 hour 25 minutes,Iran
+81,Things to Do in Denver When You're Dead,6.7,Gary Fleder,7000000,529766,1 hour 55 minutes,United States
+82,Antonia,7.4,Marleen Gorris,,4249321,1 hour 42 minutes,Netherlands|Belgium|United Kingdom|France
+83,Once Upon a Time... When We Were Colored,7.4,Tim Reid,,2291255,1 hour 55 minutes,United States
+85,Angels and Insects,6.8,Philip Haas,4997987,3414301,1 hour 56 minutes,United Kingdom|United States
+86,White Squall,6.6,Ridley Scott,38000000,10292300,2 hours 9 minutes,United States|United Kingdom
+87,Dunston Checks In,5.4,Ken Kwapis,,9871065,1 hour 28 minutes,United States
+88,Black Sheep,6.2,Penelope Spheeris,,32417995,1 hour 27 minutes,United States
+89,Nick of Time,6.3,John Badham,33000000,8175346,1 hour 30 minutes,United States
+92,Mary Reilly,5.8,Stephen Frears,47000000,12379402,1 hour 48 minutes,United States|United Kingdom
+93,Vampire in Brooklyn,4.7,Wes Craven,20000000,19751736,1 hour 40 minutes,United States
+94,Beautiful Girls,7.1,Ted Demme,,10597759,1 hour 52 minutes,United States
+95,Broken Arrow,6.1,John Woo,50000000,150270147,1 hour 48 minutes,United States
+96,In the Bleak Midwinter,7.2,Kenneth Branagh,,469571,1 hour 39 minutes,United Kingdom|United States
+97,La haine,8.1,Mathieu Kassovitz,,759234,1 hour 38 minutes,France
+99,Heidi Fleiss: Hollywood Madam,6.6,Nick Broomfield,,34402,1 hour 46 minutes,United Kingdom|Germany|United States|Canada
+100,City Hall,6.2,Harold Becker,40000000,20340204,1 hour 51 minutes,United States
+101,Bottle Rocket,6.9,Wes Anderson,7000000,560069,1 hour 31 minutes,United States
+102,Mr. Wrong,3.8,Nick Castle,,12825141,1 hour 36 minutes,United States
+103,Unforgettable,6.0,John Dahl,18000000,2821671,1 hour 57 minutes,United States
+104,Happy Gilmore,7.0,Dennis Dugan,12000000,41205099,1 hour 32 minutes,United States
+105,The Bridges of Madison County,7.6,Clint Eastwood,24000000,182016617,2 hours 15 minutes,United States
+106,Keiner liebt mich,7.1,Doris Dörrie,,,1 hour 44 minutes,Germany
+107,Muppet Treasure Island,6.9,Brian Henson,,34327766,1 hour 39 minutes,United States|United Kingdom
+108,Catwalk,7.0,Robert Leacock,,28672,1 hour 35 minutes,United States
+110,Braveheart,8.3,Mel Gibson,72000000,213216216,2 hours 58 minutes,United States
+111,Taxi Driver,8.2,Martin Scorsese,1300000,28580862,1 hour 54 minutes,United States
+112,Hung fan kui,6.8,Stanley Tong,7500000,32392047,1 hour 44 minutes,Hong Kong
+113,Before and After,6.1,Barbet Schroeder,35000000,8797839,1 hour 48 minutes,United States
+116,Anne Frank Remembered,8.1,Jon Blair,,1310200,1 hour 57 minutes,United Kingdom|United States|Netherlands
+117,The Young Poisoner's Handbook,7.0,Benjamin Ross,,536825,1 hour 39 minutes,United Kingdom|Germany|France
+118,If Lucy Fell,4.9,Eric Schaeffer,5000000,2420162,1 hour 32 minutes,United States
+119,Steal Big Steal Little,4.7,Andrew Davis,35000000,3150170,2 hours 15 minutes,United States
+121,The Boys of St. Vincent,7.5,John N. Smith,,,1 hour 33 minutes,Canada
+122,Boomerang,5.6,Reginald Hudlin,42000000,131052444,1 hour 57 minutes,United States
+123,Chung Hing sam lam,8.0,Wong Kar-Wai,,3275063,1 hour 42 minutes,Hong Kong
+125,Flirting with Disaster,6.7,David O. Russell,7000000,14702438,1 hour 32 minutes,United States
+126,Die unendliche Geschichte III: Rettung aus Phantasien,3.2,Peter MacDonald,17000000,,1 hour 35 minutes,Germany|United States
+128,Jupiter's Wife,7.1,Michel Negroponte,,10622,1 hour 27 minutes,United States
+129,Pie in the Sky,5.8,Bryan Gordon,,,1 hour 35 minutes,United States
+132,Jade,5.3,William Friedkin,50000000,9851610,1 hour 35 minutes,United States
+135,Down Periscope,6.2,David S. Ward,31000000,37553752,1 hour 32 minutes,United States
+137,Man of the Year,5.9,Dirk Shafer,,209935,1 hour 26 minutes,United States|United Kingdom
+140,Up Close & Personal,6.1,Jon Avnet,60000000,100688705,2 hours 4 minutes,United States
+141,The Birdcage,7.2,Mike Nichols,31000000,185260553,1 hour 57 minutes,United States
+144,The Brothers McMullen,6.6,Edward Burns,238000,10426506,1 hour 38 minutes,United States
+145,Bad Boys,6.8,Michael Bay,19000000,141407024,1 hour 59 minutes,United States
+146,The Amazing Panda Adventure,5.7,Christopher Cain,,7506759,1 hour 24 minutes,United States
+147,The Basketball Diaries,7.3,Scott Kalvert,2000000,2402438,1 hour 42 minutes,United States
+148,An Awfully Big Adventure,5.8,Mike Newell,4000000,259724,1 hour 52 minutes,United Kingdom
+149,Amateur,6.8,Hal Hartley,2300000,757088,1 hour 45 minutes,United States|United Kingdom|France
+150,Apollo 13,7.7,Ron Howard,52000000,355237933,2 hours 20 minutes,United States
+151,Rob Roy,6.9,Michael Caton-Jones,28000000,31596911,2 hours 19 minutes,United Kingdom|United States
+152,The Addiction,6.4,Abel Ferrara,,307308,1 hour 22 minutes,United States
+153,Batman Forever,5.4,Joel Schumacher,100000000,336567158,2 hours 1 minute,United States|United Kingdom
+154,Belle de Jour,7.6,Luis Buñuel,,4162334,1 hour 40 minutes,France|Italy
+155,Beyond Rangoon,6.5,John Boorman,23000000,5750110,1 hour 40 minutes,United Kingdom|United States
+156,Blue in the Face,6.6,Paul AusterWayne WangHarvey Wang,2000000,1268636,1 hour 23 minutes,United States
+157,Canadian Bacon,5.9,Michael Moore,11000000,163971,1 hour 31 minutes,United States|Canada
+158,Casper,6.2,Brad Silberling,55000000,288144179,1 hour 40 minutes,United States
+159,Clockers,6.9,Spike Lee,25000000,13071518,2 hours 8 minutes,United States
+160,Congo,5.3,Frank Marshall,50000000,152022101,1 hour 49 minutes,United States
+161,Crimson Tide,7.4,Tony Scott,53000000,157387195,1 hour 56 minutes,United States
+162,Crumb,8.0,Terry Zwigoff,,3041083,1 hour 59 minutes,United States
+163,Desperado,7.1,Robert Rodriguez,7000000,25405445,1 hour 44 minutes,United States|Mexico
+164,Devil in a Blue Dress,6.8,Carl Franklin,27000000,16141551,1 hour 42 minutes,United States
+165,Die Hard with a Vengeance,7.6,John McTiernan,90000000,366101666,2 hours 8 minutes,United States
+166,The Doom Generation,6.2,Gregg Araki,,284785,1 hour 23 minutes,France|United States
+168,First Knight,6.0,Jerry Zucker,55000000,127600435,2 hours 14 minutes,United States|United Kingdom
+169,Free Willy 2: The Adventure Home,5.1,Dwight H. Little,,30077111,1 hour 35 minutes,France|United States
+170,Hackers,6.2,Iain Softley,20000000,7563728,1 hour 45 minutes,United States
+171,Jeffrey,6.8,Christopher Ashley,,3487767,1 hour 32 minutes,United States
+172,Johnny Mnemonic,5.6,Robert Longo,26000000,19077036,1 hour 43 minutes,Canada|United States
+173,Judge Dredd,5.6,Danny Cannon,90000000,113493481,1 hour 36 minutes,United States|Netherlands|United Kingdom
+174,Jury Duty,4.3,John Fortenberry,,17014653,1 hour 28 minutes,United States
+175,Kids,7.0,Larry Clark,1500000,7412216,1 hour 31 minutes,United States
+176,Living in Oblivion,7.5,Tom DiCillo,500000,1111790,1 hour 30 minutes,United States
+177,Lord of Illusions,6.0,Clive Barker,12000000,13294422,1 hour 49 minutes,United States|United Kingdom
+178,Love and Human Remains,6.6,Denys Arcand,,542985,1 hour 40 minutes,Canada
+179,Mad Love,5.4,Antonia Bird,,15453274,1 hour 33 minutes,United States
+180,Mallrats,7.0,Kevin Smith,8000000,2122561,1 hour 34 minutes,United States
+181,Mighty Morphin Power Rangers: The Movie,5.3,Bryan Spicer,20000000,66433194,1 hour 35 minutes,United States|Japan|Australia|New Zealand
+183,Mute Witness,6.7,Anthony Waller,2000000,1125910,1 hour 35 minutes,United Kingdom|Russia|Germany
+184,Nadja,6.0,Michael Almereyda,1000000,443169,1 hour 33 minutes,United States
+185,The Net,6.0,Irwin Winkler,22000000,110627965,1 hour 54 minutes,United States
+186,Nine Months,5.5,Chris Columbus,,138510230,1 hour 43 minutes,United States
+187,Party Girl,6.5,Daisy von Scherler Mayer,150000,472370,1 hour 34 minutes,United States
+188,The Prophecy,6.4,Gregory Widen,8000000,16115878,1 hour 38 minutes,United States
+189,Reckless,5.2,Norman René,,,1 hour 31 minutes,United States
+190,Safe,7.1,Todd Haynes,1000000,512558,1 hour 59 minutes,United States|United Kingdom
+191,The Scarlet Letter,5.3,Roland Joffé,46000000,10382407,2 hours 15 minutes,United States
+193,Showgirls,5.1,Paul Verhoeven,45000000,20365725,2 hours 8 minutes,France|United States
+194,Smoke,7.4,Wayne Wang,7000000,8367636,1 hour 52 minutes,Germany|Japan|United States
+195,Something to Talk About,5.8,Lasse Hallström,,50865589,1 hour 46 minutes,United States
+196,Species,5.9,Roger Donaldson,35000000,113374103,1 hour 48 minutes,United States
+198,Strange Days,7.2,Kathryn Bigelow,42000000,7959751,2 hours 25 minutes,United States
+199,Les parapluies de Cherbourg,7.8,Jacques Demy,,200807,1 hour 31 minutes,France|West Germany
+201,Three Wishes,6.1,Martha Coolidge,10000000,7027517,1 hour 55 minutes,United States
+202,Total Eclipse,6.4,Agnieszka Holland,8000000,340139,1 hour 51 minutes,United Kingdom|France|Belgium
+203,"To Wong Foo Thanks for Everything, Julie Newmar",6.8,Beeban Kidron,30000000,47774193,1 hour 49 minutes,United States
+204,Under Siege 2: Dark Territory,5.6,Geoff Murphy,60000000,104324083,1 hour 40 minutes,United States
+205,Unstrung Heroes,6.7,Diane Keaton,,7929434,1 hour 33 minutes,United States
+206,Unzipped,6.5,Douglas Keeve,,2875086,1 hour 13 minutes,United States
+207,A Walk in the Clouds,6.7,Alfonso Arau,20000000,50008143,1 hour 42 minutes,United States|Mexico
+208,Waterworld,6.3,Kevin Reynolds,175000000,264218220,2 hours 15 minutes,United States
+209,White Man's Burden,5.3,Desmond Nakano,7000000,3734870,1 hour 29 minutes,France|United States
+210,Wild Bill,5.8,Walter Hill,30000000,2193982,1 hour 38 minutes,United States
+211,The Browning Version,7.2,Mike Figgis,,487391,1 hour 37 minutes,United Kingdom
+212,Bushwhacked,5.6,Greg Beeman,,7919823,1 hour 30 minutes,United States
+213,Utomlennye solntsem,7.8,Nikita Mikhalkov,2800000,2313461,2 hours 15 minutes,Russia|France
+214,Pred dozhdot,7.8,Milcho Manchevski,1900000,763847,1 hour 53 minutes,United Kingdom|France|North Macedonia
+215,Before Sunrise,8.1,Richard Linklater,2500000,6568101,1 hour 41 minutes,United States|Austria
+216,Billy Madison,6.4,Tamra Davis,10000000,26488734,1 hour 29 minutes,United States
+217,The Babysitter,4.3,Guy Ferland,2000000,,1 hour 30 minutes,United States
+218,Boys on the Side,6.5,Herbert Ross,21000000,23440188,1 hour 55 minutes,France|United States
+219,The Cure,7.7,Peter Horton,,2568425,1 hour 37 minutes,United States
+220,Castle Freak,5.9,Stuart Gordon,,,1 hour 30 minutes,United States|Italy
+222,Circle of Friends,6.6,Pat O'Connor,,23389975,1 hour 43 minutes,Ireland|United States|United Kingdom
+223,Clerks,7.7,Kevin Smith,27000,3152360,1 hour 32 minutes,United States
+224,Don Juan DeMarco,6.7,Jeremy Leven,25000000,68792531,1 hour 37 minutes,United States
+225,Disclosure,6.2,Barry Levinson,55000000,214015089,2 hours 8 minutes,United States
+227,Drop Zone,5.6,John Badham,45000000,28735315,1 hour 41 minutes,United States
+228,Destiny Turns on the Radio,4.6,Jack Baran,,1176982,1 hour 42 minutes,United States
+229,Death and the Maiden,7.2,Roman Polanski,12000000,3103716,1 hour 43 minutes,United Kingdom|France|United States
+230,Dolores Claiborne,7.4,Taylor Hackford,,24361867,2 hours 12 minutes,United States
+231,Dumb and Dumber,7.3,Peter FarrellyBobby Farrelly,17000000,247290327,1 hour 47 minutes,United States
+232,Yin shi nan nu,7.8,Ang Lee,,7294403,2 hours 4 minutes,Taiwan|United States
+233,Exotica,7.0,Atom Egoyan,,4221036,1 hour 43 minutes,Canada
+234,Exit to Eden,4.3,Garry Marshall,25000000,6841570,1 hour 53 minutes,United States
+235,Ed Wood,7.8,Tim Burton,18000000,5888045,2 hours 7 minutes,United States
+236,French Kiss,6.6,Lawrence Kasdan,40000000,101982854,1 hour 51 minutes,United Kingdom|United States|France
+237,Forget Paris,6.5,Billy Crystal,,33177694,1 hour 41 minutes,United States
+238,Far from Home: The Adventures of Yellow Dog,6.3,Phillip Borsos,,11642946,1 hour 21 minutes,United States
+239,A Goofy Movie,6.9,Kevin Lima,18000000,35348597,1 hour 18 minutes,United States|Australia|France|Canada|Spain
+240,Hideaway,5.3,Brett Leonard,15000000,12201255,1 hour 46 minutes,United States|Canada
+241,Fluke,6.6,Carlo Carlei,15000000,3987768,1 hour 36 minutes,United States
+242,Farinelli,6.8,Gérard Corbiau,,1600226,1 hour 51 minutes,France|Italy|Belgium|United Kingdom
+243,Gordy,3.8,Mark Lewis,,3941146,1 hour 30 minutes,United States
+246,Hoop Dreams,8.3,Steve James,700000,11830611,2 hours 50 minutes,United States
+247,Heavenly Creatures,7.2,Peter Jackson,5000000,3049950,1 hour 39 minutes,New Zealand|Germany
+248,Houseguest,5.9,Randall Miller,10500000,26325256,1 hour 53 minutes,United States
+249,Immortal Beloved,7.4,Bernard Rose,,9914409,2 hours 1 minute,United Kingdom|United States
+250,Heavyweights,6.6,Steven Brill,,17689177,1 hour 37 minutes,United States
+251,The Hunted,5.9,J.F. Lawton,20000000,6609661,1 hour 51 minutes,United States
+252,I.Q.,6.2,Fred Schepisi,25000000,26381221,1 hour 40 minutes,United States
+253,Interview with the Vampire: The Vampire Chronicles,7.5,Neil Jordan,60000000,223664608,2 hours 3 minutes,United States
+254,Jefferson in Paris,5.7,James Ivory,14000000,2473668,2 hours 19 minutes,United States|France
+255,The Jerky Boys,4.7,James Melkonian,7000000,7557877,1 hour 22 minutes,United States
+256,Junior,4.7,Ivan Reitman,60000000,108431355,1 hour 49 minutes,United States
+257,Just Cause,6.4,Arne Glimcher,,36853222,1 hour 42 minutes,United States
+258,A Kid in King Arthur's Court,4.7,Michael Gottlieb,15000000,13406717,1 hour 29 minutes,United Kingdom|Hungary|United States
+259,Kiss of Death,5.9,Barbet Schroeder,40000000,14942422,1 hour 41 minutes,United States
+260,Star Wars,8.6,George Lucas,11000000,775398507,2 hours 1 minute,United States
+261,Little Women,7.3,Gillian Armstrong,18000000,50085123,1 hour 55 minutes,United States
+262,A Little Princess,7.6,Alfonso Cuarón,17000000,10015449,1 hour 37 minutes,United States
+263,Ladybird Ladybird,7.4,Ken Loach,38976598,152457,1 hour 41 minutes,United Kingdom
+265,Como agua para chocolate,7.1,Alfonso Arau,2000000,21744201,1 hour 45 minutes,Mexico
+266,Legends of the Fall,7.5,Edward Zwick,30000000,160638883,2 hours 13 minutes,United States
+267,Major Payne,6.3,Nick Castle,,30112050,1 hour 35 minutes,United States
+269,Mi vida loca,6.5,Allison Anders,,3267313,1 hour 32 minutes,United States|United Kingdom
+270,Love Affair,6.0,Glenn Gordon Caron,60000000,18272894,1 hour 48 minutes,United States
+271,Losing Isaiah,6.4,Stephen Gyllenhaal,17000000,7603766,1 hour 51 minutes,United States
+272,The Madness of King George,7.2,Nicholas Hytner,65897768,15238689,1 hour 50 minutes,United Kingdom|United States
+273,Mary Shelley's Frankenstein,6.3,Kenneth Branagh,45000000,112006296,2 hours 3 minutes,United States|Japan|United Kingdom
+274,Man of the House,5.3,James Orr,,40070995,1 hour 36 minutes,United States
+275,Mixed Nuts,5.4,Nora Ephron,15000000,6821850,1 hour 37 minutes,United States
+276,Milk Money,5.6,Richard Benjamin,,18137661,1 hour 50 minutes,United States
+277,Miracle on 34th Street,6.6,Les Mayfield,,46264384,1 hour 54 minutes,United States
+278,Miami Rhapsody,5.4,David Frankel,,5221281,1 hour 35 minutes,United States
+279,My Family,7.3,Gregory Nava,5500000,11079373,2 hours 8 minutes,United States
+280,Murder in the First,7.3,Marc Rocco,,17381942,2 hours 2 minutes,France|United States
+281,Nobody's Fool,7.3,Robert Benton,20000000,39491975,1 hour 50 minutes,United States
+282,Nell,6.5,Michael Apted,24500000,106683817,1 hour 52 minutes,United States
+283,New Jersey Drive,6.6,Nick Gomez,5000000,3565508,1 hour 38 minutes,United States
+284,New York Undercover Cop,4.3,Tôru Murakawa,,,1 hour 33 minutes,Japan|United States
+285,Beyond Bedlam,3.2,Vadim Jean,,,1 hour 29 minutes,United Kingdom
+287,Nina Takes a Lover,5.4,Alan Jacobs,,,1 hour 38 minutes,United States
+288,Natural Born Killers,7.2,Oliver Stone,34000000,50287182,1 hour 59 minutes,United States
+289,Only You,6.5,Norman Jewison,,20059210,1 hour 49 minutes,United States|Italy
+290,Once Were Warriors,7.9,Lee Tamahori,,1608610,1 hour 42 minutes,New Zealand
+291,Poison Ivy II: Lily,4.4,Anne Goursaud,,,1 hour 46 minutes,United States
+292,Outbreak,6.6,Wolfgang Petersen,50000000,189859560,2 hours 7 minutes,United States
+293,Léon,8.5,Luc Besson,16000000,20278989,1 hour 50 minutes,France|United States
+294,The Perez Family,6.0,Mira Nair,11000000,2832826,1 hour 53 minutes,United States
+295,A Pyromaniac's Love Story,5.3,Joshua Brand,,345972,1 hour 34 minutes,United States
+296,Pulp Fiction,8.9,Quentin Tarantino,8000000,213928762,2 hours 34 minutes,United States
+298,Tui shou,7.2,Ang Lee,400000,152322,1 hour 45 minutes,Taiwan|United States
+299,Priest,7.1,Antonia Bird,,4165845,1 hour 45 minutes,United Kingdom
+300,Quiz Show,7.5,Robert Redford,31000000,24822619,2 hours 13 minutes,United States
+301,Picture Bride,6.6,Kayo Hatta,,1238905,1 hour 34 minutes,Japan|United States
+302,La reine Margot,7.4,Patrice Chéreau,,1318578,2 hours 41 minutes,France|Germany|Italy
+303,The Quick and the Dead,6.5,Sam Raimi,32000000,18636537,1 hour 48 minutes,United States|Japan
+304,Roommates,6.4,Peter Yates,22000000,12096881,1 hour 48 minutes,United States
+305,Prêt-à-porter,5.2,Robert Altman,18000000,11300653,2 hours 13 minutes,United States
+306,Trois couleurs : Rouge,8.1,Krzysztof Kieslowski,,3641980,1 hour 39 minutes,France|Switzerland|Poland
+307,Trois couleurs: Bleu,7.8,Krzysztof Kieslowski,,1528454,1 hour 38 minutes,France|Poland|Switzerland
+308,Trois couleurs : Blanc,7.6,Krzysztof Kieslowski,,1273978,1 hour 32 minutes,Switzerland|France|Poland
+310,Rent-a-Kid,5.4,Fred Gerber,,,1 hour 25 minutes,Canada|United States
+311,Relative Fear,5.6,George Mihalka,,,1 hour 34 minutes,Canada
+312,Stuart Saves His Family,5.3,Harold Ramis,,912082,1 hour 35 minutes,Germany|United States
+313,The Swan Princess,6.4,Richard Rich,45000000,9771658,1 hour 33 minutes,United States|South Korea|Japan|Canada
+314,The Secret of Roan Inish,7.4,John Sayles,3000000,6159269,1 hour 43 minutes,United States|Ireland
+315,The Specialist,5.6,Luis Llosa,45000000,170362582,1 hour 50 minutes,United States|Peru
+316,Stargate,7.0,Roland Emmerich,55000000,196567262,1 hour 56 minutes,France|United States
+317,The Santa Clause,6.6,John Pasquin,22000000,190539357,1 hour 37 minutes,United States|Canada
+318,The Shawshank Redemption,9.3,Frank Darabont,25000000,29332133,2 hours 22 minutes,United States
+319,Shallow Grave,7.2,Danny Boyle,2500000,8418797,1 hour 29 minutes,United Kingdom
+320,Suture,6.5,Scott McGeheeDavid Siegel,,102780,1 hour 36 minutes,United States
+321,Fresa y chocolate,7.4,Tomás Gutiérrez AleaJuan Carlos Tabío,,2087569,1 hour 48 minutes,Cuba|Mexico|Spain
+322,Swimming with Sharks,7.0,George Huang,700000,382928,1 hour 33 minutes,United States
+324,The Sum of Us,7.3,Geoff BurtonKevin Dowling,,766464,1 hour 40 minutes,Australia
+325,Senior Trip,5.6,Kelly Makin,,4686937,1 hour 31 minutes,Canada|United States
+326,Huo zhe,8.3,Yimou Zhang,,2332728,2 hours 13 minutes,Hong Kong|China
+327,Tank Girl,5.4,Rachel Talalay,25000000,4064495,1 hour 44 minutes,United States
+328,Tales from the Crypt: Demon Knight,6.7,Ernest R. Dickerson,13000000,21089146,1 hour 32 minutes,United States
+329,Star Trek: Generations,6.6,David Carson,35000000,118071125,1 hour 58 minutes,United States
+330,Tales from the Hood,6.5,Rusty Cundieff,6000000,11837928,1 hour 38 minutes,United States
+331,Tom & Viv,6.2,Brian Gilbert,,538534,2 hours 5 minutes,United Kingdom
+332,Village of the Damned,5.6,John Carpenter,22000000,9418365,1 hour 38 minutes,United States
+333,Tommy Boy,7.1,Peter Segal,20000000,32679899,1 hour 37 minutes,United States
+334,Vanya on 42nd Street,7.3,Louis Malle,,1746050,1 hour 59 minutes,United States
+335,Underneath,6.1,Steven Soderbergh,6500000,536023,1 hour 39 minutes,United States
+336,The Walking Dead,4.9,Preston A. Whitmore II,15000000,6014341,1 hour 28 minutes,United States
+337,What's Eating Gilbert Grape,7.7,Lasse Hallström,11000000,10032765,1 hour 58 minutes,United States
+338,Virtuosity,5.5,Brett Leonard,30000000,24047675,1 hour 46 minutes,United States
+339,While You Were Sleeping,6.8,Jon Turteltaub,17000000,182057016,1 hour 43 minutes,United States
+340,The War,6.8,Jon Avnet,,16928556,2 hours 6 minutes,United States
+341,Double Happiness,7.1,Mina Shum,,759393,1 hour 27 minutes,Canada
+342,Muriel's Wedding,7.2,P.J. Hogan,9000000,15489542,1 hour 46 minutes,Australia|France
+343,The Baby-Sitters Club,5.7,Melanie Mayron,6500000,9685976,1 hour 34 minutes,United States
+344,Ace Ventura: Pet Detective,6.9,Tom Shadyac,15000000,107217396,1 hour 26 minutes,United States
+345,"The Adventures of Priscilla, Queen of the Desert",7.5,Stephan Elliott,,11301344,1 hour 44 minutes,Australia
+346,Backbeat,6.7,Iain Softley,,4708451,1 hour 40 minutes,United Kingdom|Germany
+347,Bitter Moon,7.2,Roman Polanski,5000000,1862805,2 hours 19 minutes,United Kingdom|France
+348,Bullets Over Broadway,7.4,Woody Allen,20000000,13383747,1 hour 38 minutes,United States
+349,Clear and Present Danger,6.9,Phillip Noyce,62000000,215887717,2 hours 21 minutes,United States|Canada
+350,The Client,6.7,Joel Schumacher,45000000,117615211,1 hour 59 minutes,United States
+351,"Corrina, Corrina",6.6,Jessie Nelson,15000000,20164171,1 hour 55 minutes,United States
+352,Crooklyn,7.0,Spike Lee,14000000,13642925,1 hour 55 minutes,United States
+353,The Crow,7.5,Alex Proyas,23000000,50844565,1 hour 42 minutes,United States
+354,Cobb,6.4,Ron Shelton,,1007583,2 hours 8 minutes,United States
+355,The Flintstones,5.0,Brian Levant,46000000,341631208,1 hour 31 minutes,United States
+356,Forrest Gump,8.8,Robert Zemeckis,55000000,678226465,2 hours 22 minutes,United States
+357,Four Weddings and a Funeral,7.1,Mike Newell,4400000,245700832,1 hour 57 minutes,United Kingdom
+358,Higher Learning,6.5,John Singleton,,38290723,2 hours 8 minutes,United States
+359,I Like It Like That,6.7,Darnell Martin,,1760527,1 hour 44 minutes,United States
+360,I Love Trouble,5.4,Charles Shyer,45000000,30806194,2 hours 3 minutes,United States
+361,It Could Happen to You,6.4,Andrew Bergman,20000000,37939757,1 hour 41 minutes,United States
+362,The Jungle Book,6.1,Stephen Sommers,27000000,52389402,1 hour 51 minutes,United States|Netherlands
+363,Die Macht der Bilder: Leni Riefenstahl,8.0,Ray Müller,,449707,3 hours 3 minutes,Germany|Belgium|United Kingdom|France
+364,The Lion King,8.5,Roger AllersRob Minkoff,45000000,979161373,1 hour 28 minutes,United States
+365,Little Buddha,6.1,Bernardo Bertolucci,35000000,4885392,2 hours 3 minutes,France|Liechtenstein|United Kingdom
+366,Wes Craven's New Nightmare,6.4,Wes Craven,8000000,19721741,1 hour 52 minutes,United States
+367,The Mask,7.0,Chuck Russell,23000000,351583407,1 hour 41 minutes,United States
+368,Maverick,7.0,Richard Donner,75000000,183031272,2 hours 7 minutes,United States
+369,Mrs. Parker and the Vicious Circle,6.4,Alan Rudolph,7000000,2144667,2 hours 5 minutes,United States|Canada
+370,Naked Gun 33 1/3: The Final Insult,6.5,Peter Segal,30000000,51132598,1 hour 23 minutes,United States
+371,The Paper,6.7,Ron Howard,6000000,48424341,1 hour 52 minutes,United States
+372,Reality Bites,6.6,Ben Stiller,11500000,33351557,1 hour 39 minutes,United States
+373,Red Rock West,7.0,John Dahl,8000000,2502551,1 hour 38 minutes,United States
+374,Ri¢hie Ri¢h,5.4,Donald Petrie,40000000,38087756,1 hour 35 minutes,United States
+376,The River Wild,6.5,Curtis Hanson,45000000,94216343,1 hour 51 minutes,United States
+377,Speed,7.3,Jan de Bont,30000000,350448145,1 hour 56 minutes,United States
+378,Speechless,5.8,Ron Underwood,38000000,20667959,1 hour 39 minutes,United States
+379,Timecop,5.9,Peter Hyams,27000000,101646581,1 hour 39 minutes,Japan|United States
+380,True Lies,7.3,James Cameron,115000000,378882411,2 hours 21 minutes,United States
+381,When a Man Loves a Woman,6.6,Luis Mandoki,,50021959,2 hours 6 minutes,United States
+382,Wolf,6.3,Mike Nichols,70000000,131002597,2 hours 5 minutes,United States
+383,Wyatt Earp,6.7,Lawrence Kasdan,63000000,25052000,3 hours 11 minutes,United States|Canada
+384,Bad Company,5.4,Damian Harris,15000000,3674841,1 hour 48 minutes,United States|Canada
+385,A Man of No Importance,6.7,Suri Krishnamma,,920916,1 hour 39 minutes,Ireland|United Kingdom
+386,S.F.W.,5.7,Jefery Levy,,63513,1 hour 36 minutes,United States
+387,A Low Down Dirty Shame,5.9,Keenen Ivory Wayans,10000000,29392418,1 hour 40 minutes,United States
+388,"Boys Life: Three Stories of Love, Lust, and Liberation",7.2,Robert Lee KingRaoul O'ConnellBrian Sloan,,,1 hour 31 minutes,United States
+389,Le colonel Chabert,6.9,Yves Angelo,,464284,1 hour 50 minutes,France
+390,"Faster, Pussycat! Kill! Kill!",6.6,Russ Meyer,45000,,1 hour 23 minutes,United States
+391,Jason's Lyric,6.6,Doug McHenry,7000000,20851521,1 hour 59 minutes,United States
+393,Street Fighter,4.1,Steven E. de Souza,35000000,99433436,1 hour 42 minutes,Japan|United States|Australia|Hong Kong
+405,Highlander III: The Sorcerer,4.5,Andrew Morahan,26000000,12303080,1 hour 39 minutes,United Kingdom|France|Canada
+406,Federal Hill,6.3,Michael Corrente,80000,514775,1 hour 37 minutes,United States
+407,In the Mouth of Madness,7.1,John Carpenter,8000000,8926413,1 hour 35 minutes,United States|Canada
+408,8 Seconds,6.6,John G. Avildsen,7000000,19623396,1 hour 45 minutes,United States
+409,Above the Rim,6.6,Jeff Pollack,3500000,16192320,1 hour 36 minutes,United States
+410,Addams Family Values,6.8,Barry Sonnenfeld,47000000,48919043,1 hour 34 minutes,United States
+412,The Age of Innocence,7.2,Martin Scorsese,34000000,32255953,2 hours 19 minutes,United States
+413,Airheads,6.2,Michael Lehmann,,5751882,1 hour 32 minutes,United States
+414,The Air Up There,5.6,Paul Michael Glaser,17080000,21011318,1 hour 47 minutes,United States|Japan
+415,Another Stakeout,5.6,John Badham,,20208496,1 hour 48 minutes,United States
+416,Bad Girls,5.2,Jonathan Kaplan,25000000,15240435,1 hour 39 minutes,United States
+417,Barcelona,7.0,Whit Stillman,3200000,7266973,1 hour 41 minutes,United States
+418,Being Human,5.3,Bill Forsyth,40000000,1519366,2 hours 2 minutes,United Kingdom|Japan|United States
+419,The Beverly Hillbillies,5.1,Penelope Spheeris,25000000,57405220,1 hour 32 minutes,United States
+420,Beverly Hills Cop III,5.5,John Landis,50000000,119208989,1 hour 44 minutes,United States
+421,Black Beauty,6.6,Caroline Thompson,,4630377,1 hour 28 minutes,United Kingdom|United States
+422,Blink,6.2,Michael Apted,11000000,16696219,1 hour 46 minutes,United States
+423,Blown Away,6.2,Stephen Hopkins,28000000,30156002,2 hours 1 minute,United States
+424,Blue Chips,6.3,William Friedkin,,23070663,1 hour 48 minutes,United States
+425,Blue Sky,6.4,Tony Richardson,16000000,3359465,1 hour 41 minutes,United States
+426,Body Snatchers,6.0,Abel Ferrara,13000000,428868,1 hour 27 minutes,United States
+427,Boxing Helena,4.7,Jennifer Lynch,,1796389,1 hour 47 minutes,United States
+428,A Bronx Tale,7.8,Robert De Niro,22000000,17287898,2 hours 1 minute,United States
+429,Cabin Boy,5.3,Adam Resnick,9000000,3662459,1 hour 20 minutes,United States
+430,Calendar Girl,5.1,John Whitesell,13000000,2570550,1 hour 30 minutes,United States
+431,Carlito's Way,7.9,Brian De Palma,30000000,63848322,2 hours 24 minutes,United States
+432,City Slickers II: The Legend of Curly's Gold,5.6,Paul Weiland,40000000,43622150,1 hour 56 minutes,United States
+433,Clean Slate,5.7,Mick Jackson,18000000,7355425,1 hour 47 minutes,United States
+434,Cliffhanger,6.5,Renny Harlin,70000000,255000211,1 hour 53 minutes,France|Italy|Japan|United States
+435,Coneheads,5.4,Steve Barron,30000000,21274717,1 hour 28 minutes,United States
+436,Color of Night,5.2,Richard Rush,40000000,19726050,2 hours 1 minute,United States
+437,Cops and Robbersons,5.2,Michael Ritchie,,11391093,1 hour 33 minutes,United States
+438,The Cowboy Way,5.9,Gregg Champion,35000000,20280016,1 hour 42 minutes,United States
+440,Dave,6.9,Ivan Reitman,28000000,63270710,1 hour 50 minutes,United States
+441,Dazed and Confused,7.6,Richard Linklater,6900000,8259076,1 hour 43 minutes,United States
+442,Demolition Man,6.7,Marco Brambilla,57000000,58056466,1 hour 55 minutes,United States
+444,Even Cowgirls Get the Blues,4.3,Gus Van Sant,8000000,1708873,1 hour 46 minutes,United States
+445,Fatal Instinct,5.7,Carl Reiner,,7839327,1 hour 31 minutes,United States
+446,Ba wang bie ji,8.1,Kaige Chen,4000000,7447084,2 hours 51 minutes,China|Hong Kong
+448,Fearless,7.0,Peter Weir,,6995302,2 hours 2 minutes,United States
+449,Fear of a Black Hat,7.2,Rusty Cundieff,999999,233824,1 hour 28 minutes,United States|United Kingdom
+450,With Honors,6.7,Alek Keshishian,,20016254,1 hour 41 minutes,United States
+451,Flesh and Bone,6.3,Steve Kloves,,9709451,2 hours 6 minutes,United States
+452,Widows' Peak,6.6,John Irvin,,6243722,1 hour 41 minutes,Ireland|United Kingdom
+453,For Love or Money,6.2,Barry Sonnenfeld,30000000,11146270,1 hour 36 minutes,United States
+454,The Firm,6.9,Sydney Pollack,42000000,270248367,2 hours 34 minutes,United States
+455,Free Willy,6.0,Simon Wincer,20000000,153709806,1 hour 52 minutes,France|United States
+456,Fresh,7.5,Boaz Yakin,3500000,8094616,1 hour 54 minutes,United States|France
+457,The Fugitive,7.8,Andrew Davis,44000000,368875760,2 hours 10 minutes,United States
+458,Geronimo: An American Legend,6.6,Walter Hill,35000000,18635620,1 hour 55 minutes,United States
+459,The Getaway,5.8,Roger Donaldson,,30057974,1 hour 55 minutes,Japan|United States
+460,Getting Even with Dad,4.9,Howard Deutch,30000000,18869594,1 hour 49 minutes,United States
+461,Go Fish,5.7,Rose Troche,15000,2405285,1 hour 23 minutes,United States
+464,Hard Target,6.2,John Woo,18000000,74189677,1 hour 37 minutes,United States
+466,Hot Shots! Part Deux,6.6,Jim Abrahams,25000000,133752825,1 hour 26 minutes,United States
+467,Live Nude Girls,5.2,Julianna Lavin,,23808,1 hour 35 minutes,United States
+468,The Englishman Who Went Up a Hill But Came Down a Mountain,6.6,Christopher Monger,40997769,10904930,1 hour 39 minutes,United Kingdom
+469,The House of the Spirits,6.9,Bille August,40000000,6265311,2 hours 25 minutes,Germany|Denmark|Portugal|United States
+470,House Party 3,4.7,Eric Meza,,19281235,1 hour 40 minutes,United States
+471,The Hudsucker Proxy,7.2,Joel CoenEthan Coen,40000000,2816518,1 hour 51 minutes,United Kingdom|Germany|United States
+472,I'll Do Anything,5.5,James L. Brooks,40000000,10424645,1 hour 55 minutes,United States
+473,In the Army Now,5.0,Daniel Petrie Jr.,,28881266,1 hour 31 minutes,United States
+474,In the Line of Fire,7.2,Wolfgang Petersen,40000000,176997168,2 hours 8 minutes,United States
+475,In the Name of the Father,8.1,Jim Sheridan,13000000,65796862,2 hours 13 minutes,Ireland|United Kingdom|United States
+476,The Inkwell,6.3,Matty Rich,8000000,8880705,1 hour 50 minutes,United States
+477,What's Love Got to Do with It,7.3,Brian Gibson,15000000,39100956,1 hour 58 minutes,United States
+478,Jimmy Hollywood,5.3,Barry Levinson,30000000,3783003,1 hour 52 minutes,United States
+479,Judgment Night,6.6,Stephen Hopkins,21000000,12526677,1 hour 50 minutes,United States|Japan
+480,Jurassic Park,8.2,Steven Spielberg,63000000,1104379926,2 hours 7 minutes,United States
+481,Kalifornia,6.7,Dominic Sena,9000000,2395231,1 hour 57 minutes,United States
+482,Killing Zoe,6.4,Roger Avary,1500000,418961,1 hour 36 minutes,France|United States
+484,Lassie,5.8,Daniel Petrie,,9994609,1 hour 34 minutes,United States
+485,Last Action Hero,6.5,John McTiernan,85000000,137298489,2 hours 10 minutes,United States
+486,Life with Mikey,5.7,James Lapine,,12440858,1 hour 31 minutes,United States
+487,Lightning Jack,5.5,Simon Wincer,,16821273,1 hour 38 minutes,United States|Australia
+488,M. Butterfly,6.7,David Cronenberg,,1498795,1 hour 41 minutes,United States|Canada
+489,Made in America,5.1,Richard Benjamin,22000000,104942695,1 hour 51 minutes,France|United States
+490,Malice,6.5,Harold Becker,20000000,46405336,1 hour 47 minutes,Canada|United States
+491,The Man Without a Face,6.7,Mel Gibson,20000000,24760338,1 hour 55 minutes,United States
+492,Manhattan Murder Mystery,7.3,Woody Allen,13500000,11330911,1 hour 44 minutes,United States
+493,Menace II Society,7.5,Albert HughesAllen Hughes,3500000,27912072,1 hour 37 minutes,United States
+494,Executive Decision,6.5,Stuart Baird,55000000,121969216,2 hours 13 minutes,United States
+495,Ai no korîda,6.6,Nagisa Ôshima,,266,1 hour 49 minutes,Japan|France
+496,What Happened Was...,7.2,Tom Noonan,120000,141,1 hour 31 minutes,United States
+497,Much Ado About Nothing,7.3,Kenneth Branagh,11000000,22549338,1 hour 51 minutes,United Kingdom|United States
+499,Mr. Wonderful,5.9,Anthony Minghella,13000000,3125424,1 hour 38 minutes,United States
+500,Mrs. Doubtfire,7.1,Chris Columbus,25000000,441286195,2 hours 5 minutes,United States
+501,Naked,7.7,Mike Leigh,,1797195,2 hours 11 minutes,United Kingdom
+502,The Next Karate Kid,4.6,Christopher Cain,12000000,15876353,1 hour 47 minutes,United States
+504,No Escape,6.1,Martin Campbell,20000000,15339030,1 hour 58 minutes,United States|United Kingdom
+505,North,4.5,Rob Reiner,40000000,7182747,1 hour 27 minutes,United States
+506,Orlando,7.1,Sally Potter,4000000,5409423,1 hour 34 minutes,United Kingdom|Russia|Italy|France|Netherlands
+507,A Perfect World,7.5,Clint Eastwood,30000000,135130999,2 hours 18 minutes,United States
+508,Philadelphia,7.7,Jonathan Demme,26000000,206678440,2 hours 5 minutes,United States
+509,The Piano,7.5,Jane Campion,7000000,40185556,2 hours 1 minute,New Zealand|Australia|France
+510,Poetic Justice,6.1,John Singleton,14000000,27515786,1 hour 49 minutes,United States
+511,The Program,6.5,David S. Ward,15000000,23032565,1 hour 52 minutes,United States
+512,The Puppet Masters,5.9,Stuart Orme,,8647042,1 hour 49 minutes,United States
+513,Radioland Murders,6.2,Mel Smith,15000000,1316865,1 hour 48 minutes,United States
+514,The Ref,6.9,Ted Demme,11000000,11439193,1 hour 37 minutes,United States
+515,The Remains of the Day,7.8,James Ivory,15000000,23240144,2 hours 14 minutes,United States
+516,Renaissance Man,6.2,Penny Marshall,40000000,24332324,2 hours 8 minutes,United States
+517,Rising Sun,6.3,Philip Kaufman,35000000,107198790,2 hours 5 minutes,United States
+518,The Road to Wellville,5.9,Alan Parker,25000000,6562513,1 hour 58 minutes,United States
+519,RoboCop 3,4.2,Fred Dekker,22000000,10696210,1 hour 44 minutes,United States
+520,Robin Hood: Men in Tights,6.7,Mel Brooks,20000000,35739755,1 hour 44 minutes,United States|France
+521,Romeo Is Bleeding,6.5,Peter Medak,11500000,3275585,1 hour 50 minutes,United Kingdom|United States
+522,Romper Stomper,6.8,Geoffrey Wright,,175526,1 hour 34 minutes,Australia
+523,Ruby in Paradise,6.9,Victor Nunez,800000,1001437,1 hour 54 minutes,United States
+524,Rudy,7.5,David Anspaugh,,22881563,1 hour 54 minutes,United States
+526,Les nuits fauves,6.9,Cyril Collard,,662341,2 hours 6 minutes,France|Italy
+527,Schindler's List,9.0,Steven Spielberg,22000000,322161245,3 hours 15 minutes,United States
+528,The Scout,5.4,Michael Ritchie,,2694234,1 hour 41 minutes,United States|Mexico
+529,Searching for Bobby Fischer,7.4,Steven Zaillian,12000000,7266383,1 hour 49 minutes,United States
+531,The Secret Garden,7.3,Agnieszka Holland,18000000,31181347,1 hour 41 minutes,United States
+532,Serial Mom,6.8,John Waters,13000000,7823437,1 hour 35 minutes,United States
+533,The Shadow,6.1,Russell Mulcahy,25000000,48063435,1 hour 48 minutes,United States
+534,Shadowlands,7.3,Richard Attenborough,22000000,25842377,2 hours 11 minutes,United Kingdom
+535,Short Cuts,7.6,Robert Altman,12000000,6110979,3 hours 8 minutes,United States
+536,A Simple Twist of Fate,6.3,Gillies MacKinnon,,3430583,1 hour 46 minutes,United States
+537,Sirens,5.9,John Duigan,,7770731,1 hour 38 minutes,Australia|United Kingdom
+538,Six Degrees of Separation,6.8,Fred Schepisi,12000000,6405918,1 hour 52 minutes,United States
+539,Sleepless in Seattle,6.8,Nora Ephron,21000000,227927165,1 hour 45 minutes,United States
+540,Sliver,5.1,Phillip Noyce,40000000,116300000,1 hour 47 minutes,United States
+541,Blade Runner,8.1,Ridley Scott,28000000,41759489,1 hour 57 minutes,United States|United Kingdom
+542,Son in Law,5.9,Steve Rash,8000000,36448400,1 hour 35 minutes,United States
+543,So I Married an Axe Murderer,6.5,Thomas Schlamme,20000000,11585483,1 hour 33 minutes,United States
+544,Striking Distance,5.9,Rowdy Herrington,30000000,24107867,1 hour 42 minutes,United States
+546,Super Mario Bros.,4.2,Annabel JankelRocky Morton,48000000,20928292,1 hour 44 minutes,United Kingdom|United States|Japan|France
+547,Surviving the Game,6.2,Ernest R. Dickerson,7400000,7727256,1 hour 36 minutes,United States
+548,Terminal Velocity,5.5,Deran Sarafian,50000000,16487349,1 hour 42 minutes,United States|Canada|Japan|United Kingdom
+549,Thirty Two Short Films About Glenn Gould,7.3,François Girard,,1319521,1 hour 38 minutes,Canada|Netherlands|Portugal|Finland
+550,Threesome,6.3,Andrew Fleming,,14815317,1 hour 33 minutes,United States
+551,The Nightmare Before Christmas,7.9,Henry Selick,18000000,107800040,1 hour 16 minutes,United States
+552,The Three Musketeers,6.4,Stephen Herek,30000000,53898845,1 hour 45 minutes,United Kingdom|Austria|United States
+553,Tombstone,7.8,George P. Cosmatos,25000000,56505065,2 hours 10 minutes,United States
+555,True Romance,7.9,Tony Scott,13000000,13093107,1 hour 59 minutes,United States|France
+556,The War Room,7.4,Chris HegedusD.A. Pennebaker,,901668,1 hour 36 minutes,United States
+558,The Pagemaster,6.2,Pixote HuntJoe Johnston,27000000,13670688,1 hour 20 minutes,United States|Taiwan|United Kingdom|Canada
+562,Welcome to the Dollhouse,7.4,Todd Solondz,800000,4569882,1 hour 28 minutes,United States
+563,Germinal,7.1,Claude Berri,,,2 hours 40 minutes,France|Belgium|Italy
+564,Chasers,5.2,Dennis Hopper,,1596687,1 hour 42 minutes,United States
+567,Kika,6.5,Pedro Almodóvar,,2020357,1 hour 54 minutes,Spain|France
+568,Bhaji on the Beach,6.4,Gurinder Chadha,,740827,1 hour 41 minutes,United Kingdom
+569,Little Big League,6.2,Andrew Scheinman,,12267790,1 hour 59 minutes,United States
+573,Io speriamo che me la cavo,6.9,Lina Wertmüller,,1113435,1 hour 40 minutes,Italy
+574,Spanking the Monkey,6.3,David O. Russell,200000,1359736,1 hour 40 minutes,United States
+575,The Little Rascals,6.3,Penelope Spheeris,23000000,67308282,1 hour 22 minutes,United States
+577,Andre,5.7,George Miller,,16820893,1 hour 35 minutes,United States
+579,La scorta,6.6,Ricky Tognazzi,,147107,1 hour 36 minutes,Italy
+580,Princess Caraboo,6.0,Michael Austin,,3062530,1 hour 37 minutes,United Kingdom
+581,The Celluloid Closet,7.8,Rob EpsteinJeffrey Friedman,,1400591,1 hour 42 minutes,France|United Kingdom|Germany|United States
+583,Caro diario,7.2,Nanni Moretti,,173696,1 hour 40 minutes,Italy|France
+585,The Brady Bunch Movie,6.2,Betty Thomas,12000000,46576136,1 hour 30 minutes,United States
+586,Home Alone,7.7,Chris Columbus,18000000,476684675,1 hour 43 minutes,United States
+587,Ghost,7.1,Jerry Zucker,22000000,505703557,2 hours 6 minutes,United States
+588,Aladdin,8.0,Ron ClementsJohn Musker,28000000,504050219,1 hour 30 minutes,United States
+589,Terminator 2: Judgment Day,8.6,James Cameron,102000000,517778573,2 hours 17 minutes,United States|France
+590,Dances with Wolves,8.0,Kevin Costner,22000000,424208848,3 hours 1 minute,United States|United Kingdom
+592,Batman,7.5,Tim Burton,35000000,411569241,2 hours 6 minutes,United States|United Kingdom
+593,The Silence of the Lambs,8.6,Jonathan Demme,19000000,272742922,1 hour 58 minutes,United States
+594,Snow White and the Seven Dwarfs,7.6,William CottrellDavid HandWilfred Jackson,1499000,184960747,1 hour 23 minutes,United States
+595,Beauty and the Beast,8.0,Gary TrousdaleKirk Wise,25000000,451291298,1 hour 24 minutes,United States|Japan
+596,Pinocchio,7.5,Norman FergusonT. HeeWilfred Jackson,2600000,121892045,1 hour 28 minutes,United States
+597,Pretty Woman,7.1,Garry Marshall,14000000,463406268,1 hour 59 minutes,United States
+599,The Wild Bunch,7.9,Sam Peckinpah,6244087,640561,2 hours 25 minutes,United States
+600,Love and a .45,6.0,C.M. Talkington,,35200,1 hour 41 minutes,United States
+602,A Great Day in Harlem,7.4,Jean Bach,,527034,1 hour,United States
+605,One Fine Day,6.5,Michael Hoffman,,97529550,1 hour 48 minutes,United States
+606,Candyman: Farewell to the Flesh,5.3,Bill Condon,6000000,13940383,1 hour 35 minutes,United Kingdom|United States
+608,Fargo,8.1,Joel CoenEthan Coen,7000000,60611975,1 hour 38 minutes,United Kingdom|United States
+609,Homeward Bound II: Lost in San Francisco,5.9,David R. Ellis,,32772492,1 hour 28 minutes,United States
+610,Heavy Metal,6.6,Gerald PottertonJohn BrunoJohn Halas,9300000,547563,1 hour 26 minutes,United Kingdom|Canada|United States
+611,Hellraiser: Bloodline,5.1,Kevin Yagher,4000000,9336886,1 hour 25 minutes,United Kingdom|United States
+612,The Pallbearer,5.0,Matt Reeves,8000000,5656388,1 hour 38 minutes,United States
+613,Jane Eyre,6.8,Franco Zeffirelli,,5200601,1 hour 52 minutes,United Kingdom|France|Italy|United States
+615,Pane e cioccolata,7.4,Franco Brusati,,,1 hour 40 minutes,Italy
+616,The AristoCats,7.1,Wolfgang Reitherman,4000000,191000000,1 hour 18 minutes,United States
+617,La flor de mi secreto,7.0,Pedro Almodóvar,,1105265,1 hour 43 minutes,Spain|France
+618,Two Much,5.4,Fernando Trueba,24000000,1141556,1 hour 58 minutes,Spain|United States
+619,Ed,2.8,Bill Couturié,24000000,4422380,1 hour 34 minutes,United States
+626,A Thin Line Between Love and Hate,5.6,Martin Lawrence,8000000,35599803,1 hour 48 minutes,United States
+627,The Last Supper,6.7,Stacy Title,,459749,1 hour 32 minutes,United States
+628,Primal Fear,7.7,Gregory Hoblit,30000000,102616183,2 hours 9 minutes,United States
+631,All Dogs Go to Heaven 2,5.5,Larry LekerPaul Sabella,,8620678,1 hour 22 minutes,United States|France|Canada|Ireland|Thailand|Denmark|Australia|Taiwan|United Kingdom
+632,Land and Freedom,7.5,Ken Loach,,228800,1 hour 49 minutes,United Kingdom|France|Italy|Germany|Spain
+633,Denise Calls Up,6.6,Hal Salwen,,148121,1 hour 20 minutes,United States
+634,Theodore Rex,2.4,Jonathan R. Betuel,33500000,,1 hour 32 minutes,United States
+635,A Family Thing,7.1,Richard Pearce,,10125417,1 hour 49 minutes,United States
+636,Frisk,4.9,Todd Verow,,87433,1 hour 28 minutes,United States
+637,Sgt. Bilko,5.8,Jonathan Lynn,39000000,37956793,1 hour 34 minutes,United States
+638,Jack & Sarah,6.6,Tim Sullivan,,218626,1 hour 50 minutes,United Kingdom|France|United States
+639,Girl 6,5.3,Spike Lee,12000000,4939939,1 hour 48 minutes,United States
+640,Diabolique,5.5,Jeremiah S. Chechik,,17100266,1 hour 47 minutes,United States
+645,Nelly & Monsieur Arnaud,7.2,Claude Sautet,,955708,1 hour 46 minutes,France|Italy|Germany
+647,Courage Under Fire,6.6,Edward Zwick,46000000,100860818,1 hour 56 minutes,United States
+648,Mission: Impossible,7.2,Brian De Palma,80000000,457696391,1 hour 50 minutes,United States
+649,Á köldum klaka,7.0,Friðrik Þór Friðriksson,,,1 hour 23 minutes,United States|Japan|Iceland|Denmark|Germany
+650,Moll Flanders,6.4,Pen Densham,,3486957,2 hours 3 minutes,Ireland|United States
+653,DragonHeart,6.4,Rob Cohen,57000000,115267375,1 hour 43 minutes,United States
+656,Eddie,5.2,Steve Rash,30000000,31387164,1 hour 40 minutes,United States
+661,James and the Giant Peach,6.7,Henry Selick,38000000,28946127,1 hour 19 minutes,United Kingdom|United States
+662,Fear,6.2,James Foley,,20831000,1 hour 37 minutes,United States|Canada
+663,Kids in the Hall: Brain Candy,6.9,Kelly Makin,,2654308,1 hour 29 minutes,Canada|United States
+665,Underground,8.0,Emir Kusturica,14000000,182134,2 hours 50 minutes,Federal Republic of Yugoslavia|France|Germany|Bulgaria|Czech Republic|Hungary
+667,Bloodsport 2,4.8,Alan MehrezPhilip Tan,,684351,1 hour 30 minutes,United States
+668,Pather Panchali,8.2,Satyajit Ray,,135342,2 hours 5 minutes,India
+670,Apur Sansar,8.4,Satyajit Ray,,134241,1 hour 45 minutes,India
+671,Mystery Science Theater 3000: The Movie,7.2,Jim Mallon,,1007306,1 hour 13 minutes,United States
+673,Space Jam,6.5,Joe Pytka,80000000,230594962,1 hour 28 minutes,United States
+674,Barbarella,5.9,Roger Vadim,9000000,1288,1 hour 38 minutes,France|Italy
+678,Some Folks Call It a Sling Blade,7.5,George Hickenlooper,,,25 minutes,United States
+679,The Run of the Country,6.1,Peter Yates,,,1 hour 49 minutes,Ireland|United States
+680,Alphaville : Une étrange aventure de Lemmy Caution,7.0,Jean-Luc Godard,220000,66076,1 hour 39 minutes,France|Italy
+685,It's My Party,7.1,Randal Kleiser,,622503,1 hour 50 minutes,United States
+688,Operation Dumbo Drop,5.2,Simon Wincer,,24670346,1 hour 47 minutes,United States
+691,Mrs. Winterbourne,6.2,Richard Benjamin,25000000,10082005,1 hour 45 minutes,United States
+692,Solo,4.1,Norberto Barba,19000000,5107669,1 hour 34 minutes,Mexico|United States
+694,The Substitute,6.0,Robert Mandel,,14818176,1 hour 54 minutes,United States
+695,True Crime,5.2,Pat Verducci,,,1 hour 34 minutes,United States
+697,Feeling Minnesota,5.4,Steven Baigelman,,3124440,1 hour 39 minutes,United States
+698,Delta of Venus,4.7,Zalman King,,63174,1 hour 42 minutes,United States
+700,Angus,6.7,Patrick Read Johnson,,4821759,1 hour 30 minutes,United Kingdom|France|Germany|United States
+703,Boys,4.9,Stacy Cochran,,516349,1 hour 26 minutes,United States
+704,The Quest,5.6,Jean-Claude Van Damme,30000000,57400547,1 hour 35 minutes,Canada|United States
+706,Sunset Park,5.9,Steve Gomer,,10163782,1 hour 39 minutes,United States
+707,Mulholland Falls,6.3,Lee Tamahori,29000000,11526099,1 hour 47 minutes,United States
+708,The Truth About Cats & Dogs,6.3,Michael Lehmann,,34861807,1 hour 37 minutes,United States
+709,Oliver & Company,6.6,George Scribner,31000000,74151346,1 hour 14 minutes,United States
+710,Celtic Pride,5.3,Tom DeCerchio,,9255027,1 hour 31 minutes,United States
+711,Flipper,5.3,Alan Shapiro,25530000,20080020,1 hour 35 minutes,United States
+714,Dead Man,7.5,Jim Jarmusch,9000000,1085079,2 hours 1 minute,Germany|Japan|United States
+715,Le hussard sur le toit,7.0,Jean-Paul Rappeneau,,1320043,2 hours 15 minutes,France
+718,Les visiteurs,7.0,Jean-Marie Poiré,,659810,1 hour 47 minutes,France
+719,Multiplicity,6.1,Harold Ramis,45000000,21075014,1 hour 57 minutes,United States
+720,404 Error: Not Found for url: https://www.imdb.com/title/tt0118114/,,,,,,
+722,The Haunted World of Edward D. Wood Jr.,7.3,Brett Thompson,,,1 hour 29 minutes,United States
+724,The Craft,6.5,Andrew Fleming,15000000,24825844,1 hour 41 minutes,United States
+725,The Great White Hype,5.5,Reginald Hudlin,,8008255,1 hour 31 minutes,United States
+726,Last Dance,5.7,Bruce Beresford,,5939449,1 hour 43 minutes,United States
+728,Cold Comfort Farm,7.2,John Schlesinger,,5682429,1 hour 45 minutes,United Kingdom
+731,Heaven's Prisoners,5.8,Phil Joanou,25000000,5009305,2 hours 12 minutes,United Kingdom|United States
+733,The Rock,7.4,Michael Bay,75000000,335062621,2 hours 16 minutes,United States
+735,Dellamorte dellamore,7.0,Michele Soavi,4000000,253986,1 hour 43 minutes,Italy|France|Germany
+736,Twister,6.5,Jan de Bont,92000000,494580615,1 hour 53 minutes,United States
+737,Barb Wire,3.6,David Hogan,9000000,3793614,1 hour 38 minutes,United States
+741,Kôkaku Kidôtai,7.9,Mamoru Oshii,,964016,1 hour 23 minutes,Japan|United Kingdom
+742,Thinner,5.8,Tom Holland,8000000,15315484,1 hour 33 minutes,United States
+743,Spy Hard,5.3,Rick Friedberg,18000000,26960191,1 hour 21 minutes,United States
+745,Wallace and Gromit in: A Close Shave,8.1,Nick Park,,20909,30 minutes,United Kingdom
+747,The Stupids,4.3,John Landis,25000000,2491989,1 hour 34 minutes,United States|United Kingdom
+748,The Arrival,6.2,David Twohy,25000000,14063331,1 hour 55 minutes,United States|Mexico
+750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.3,Stanley Kubrick,1800000,9631984,1 hour 35 minutes,United Kingdom|United States
+757,Dung che sai duk,7.0,Wong Kar-Wai,40000000,2009694,1 hour 40 minutes,Hong Kong|Taiwan|China|Japan
+759,Maya Lin: A Strong Clear Vision,7.3,Freida Lee Mock,,62186,1 hour 45 minutes,United States
+760,Stalingrad,7.5,Joseph Vilsmaier,,152972,2 hours 14 minutes,Germany
+761,The Phantom,5.1,Simon Wincer,45000000,17323326,1 hour 40 minutes,Australia|United States
+762,Striptease,4.6,Andrew Bergman,40000000,113309743,1 hour 55 minutes,United States
+764,Heavy,6.7,James Mangold,,941414,1 hour 45 minutes,United States
+765,Jack,5.8,Francis Ford Coppola,45000000,58620973,1 hour 53 minutes,United States
+766,I Shot Andy Warhol,6.6,Mary Harron,,1875527,1 hour 43 minutes,United Kingdom|United States
+773,Touki bouki,7.0,Djibril Diop Mambéty,,180,1 hour 25 minutes,Senegal
+775,Histoires extraordinaires,6.4,Federico FelliniLouis MalleRoger Vadim,,,2 hours 1 minute,France|Italy
+778,Trainspotting,8.1,Danny Boyle,,16981823,1 hour 33 minutes,United Kingdom|United States
+779,'Til There Was You,4.8,Scott Winant,1000000,3525125,1 hour 53 minutes,United States
+780,Independence Day,7.0,Roland Emmerich,75000000,817400891,2 hours 25 minutes,United States
+781,Stealing Beauty,6.5,Bernardo Bertolucci,10000000,4901567,1 hour 58 minutes,United Kingdom|France|Italy
+782,The Fan,5.9,Tony Scott,55000000,18626419,1 hour 56 minutes,United States
+783,The Hunchback of Notre Dame,7.0,Gary TrousdaleKirk Wise,100000000,325338851,1 hour 31 minutes,United States
+784,The Cable Guy,6.1,Ben Stiller,47000000,102825796,1 hour 36 minutes,United States
+785,Kingpin,6.9,Bobby FarrellyPeter Farrelly,27000000,25023434,1 hour 54 minutes,United States
+786,Eraser,6.2,Chuck Russell,100000000,242295562,1 hour 55 minutes,United States
+788,The Nutty Professor,5.7,Tom Shadyac,54000000,273961019,1 hour 35 minutes,United States
+790,Un été inoubliable,7.3,Lucian Pintilie,,,1 hour 22 minutes,Romania|France
+791,"The Last Klezmer: Leopold Kozlowski, His Life and Music",8.6,Yale Strom,,,1 hour 25 minutes,United States
+795,Somebody to Love,5.5,Alexandre Rockwell,,18112,1 hour 42 minutes,United States
+798,Daylight,6.0,Rob Cohen,80000000,159212469,1 hour 54 minutes,United States
+799,The Frighteners,7.1,Peter Jackson,30000000,29359216,1 hour 50 minutes,New Zealand|United States
+800,Lone Star,7.4,John Sayles,5000000,12421583,2 hours 15 minutes,United States
+801,Harriet the Spy,6.0,Bronwen Hughes,12000000,26570048,1 hour 40 minutes,United States
+802,Phenomenon,6.4,Jon Turteltaub,32000000,152036382,2 hours 3 minutes,United States
+803,Walking and Talking,6.7,Nicole Holofcener,1000000,1287480,1 hour 26 minutes,United Kingdom|France|Germany|United States
+804,She's the One,6.0,Edward Burns,3500000,9538948,1 hour 36 minutes,United States
+805,A Time to Kill,7.5,Joel Schumacher,40000000,152266007,2 hours 29 minutes,United States
+806,American Buffalo,5.8,Michael Corrente,,665450,1 hour 28 minutes,United Kingdom|United States
+808,Alaska,5.8,Fraser C. Heston,23000000,11829959,1 hour 49 minutes,United States
+809,Fled,5.4,Kevin Hooks,25000000,17193231,1 hour 38 minutes,United States
+810,Kazaam,3.1,Paul Michael Glaser,20000000,18937262,1 hour 33 minutes,United States
+813,Larger Than Life,5.6,Howard Franklin,30000000,8315693,1 hour 33 minutes,United States
+818,A Very Brady Sequel,5.9,Arlene Sanford,12000000,21440752,1 hour 30 minutes,United States
+823,La collectionneuse,7.3,Éric Rohmer,,7077,1 hour 26 minutes,France
+824,Kaspar Hauser,6.8,Peter Sehr,,,2 hours 19 minutes,Germany|Austria|Sweden
+828,The Adventures of Pinocchio,5.2,Steve Barron,25000000,15094530,1 hour 36 minutes,United States|Germany|United Kingdom|Czech Republic|France
+829,Joe's Apartment,5.5,John Payson,13000000,4619014,1 hour 20 minutes,United States
+830,The First Wives Club,6.5,Hugh Wilson,26000000,181489203,1 hour 43 minutes,United States
+832,Ransom,6.7,Ron Howard,80000000,309492681,2 hours 1 minute,United States
+833,High School High,5.6,Hart Bochner,,21302121,1 hour 26 minutes,United States
+835,Foxfire,6.1,Annette Haywood-Carter,,269300,1 hour 42 minutes,United States
+836,Chain Reaction,5.7,Andrew Davis,50000000,60209334,1 hour 47 minutes,United States
+837,Matilda,7.0,Danny DeVito,36000000,33460753,1 hour 38 minutes,United States
+838,Emma,6.6,Douglas McGrath,6000000,22231658,2 hours,United Kingdom|United States
+839,The Crow: City of Angels,4.6,Tim Pope,13000000,17917287,1 hour 24 minutes,United States
+840,House Arrest,5.8,Harry Winer,,7032782,1 hour 48 minutes,United States
+841,Les yeux sans visage,7.6,Georges Franju,,61453,1 hour 30 minutes,France|Italy
+842,Bordello of Blood,5.4,Gilbert Adler,13000000,5781045,1 hour 27 minutes,United States|Canada
+848,The Spitfire Grill,7.0,Lee David Zlotoff,6000000,12658486,1 hour 57 minutes,United States
+849,Escape from L.A.,5.7,John Carpenter,50000000,25477365,1 hour 41 minutes,United States
+851,Basquiat,6.9,Julian Schnabel,3300000,3046399,1 hour 47 minutes,United States
+852,Tin Cup,6.4,Ron Shelton,45000000,53854588,2 hours 15 minutes,United States
+858,The Godfather,9.2,Francis Ford Coppola,6000000,250342198,2 hours 55 minutes,United States
+861,Ging chaat goo si III: Chiu kup ging chaat,7.0,Stanley Tong,900000,16270600,1 hour 36 minutes,Hong Kong
+866,Bound,7.3,Lana WachowskiLilly Wachowski,4500000,3802490,1 hour 49 minutes,United States
+867,Carpool,5.0,Arthur Hiller,17000000,3325651,1 hour 29 minutes,United States
+869,Kansas City,6.3,Robert Altman,19000000,1356828,1 hour 56 minutes,France|United States
+870,Gone Fishin',4.8,Christopher Cain,53000000,19745922,1 hour 34 minutes,United States
+875,Nothing to Lose,5.8,Izidore K. Musallam,,,1 hour 23 minutes,Canada
+876,Chiu kup gai wak,6.1,Stanley Tong,,,1 hour 44 minutes,Hong Kong
+879,The Relic,5.8,Peter Hyams,40000000,33956608,1 hour 50 minutes,United Kingdom|Germany|Japan|United States
+880,The Island of Dr. Moreau,4.6,John FrankenheimerRichard Stanley,40000000,49627779,1 hour 36 minutes,United States
+881,First Kid,5.2,David Mickey Evans,,26491793,1 hour 41 minutes,United States
+882,The Trigger Effect,5.7,David Koepp,8000000,3622979,1 hour 34 minutes,United States
+885,Bogus,5.4,Norman Jewison,30000000,4357406,1 hour 50 minutes,United States
+886,Bulletproof,5.8,Ernest R. Dickerson,25000000,22611954,1 hour 24 minutes,United States
+888,The Land Before Time III: The Time of the Great Giving,5.6,Roy Allen Smith,,,1 hour 11 minutes,United States
+889,06,6.2,Theo van Gogh,,,1 hour 27 minutes,Netherlands
+891,Halloween: The Curse of Michael Myers,4.7,Joe Chappelle,5000000,15116634,1 hour 27 minutes,United States
+892,Twelfth Night or What You Will,7.1,Trevor Nunn,5000000,588621,2 hours 14 minutes,Ireland|United Kingdom
+893,Mother Night,7.1,Keith Gordon,6000000,403701,1 hour 54 minutes,United States
+896,Les roseaux sauvages,7.3,André Téchiné,,807775,1 hour 50 minutes,France
+897,For Whom the Bell Tolls,6.8,Sam Wood,3000000,,2 hours 50 minutes,United States
+898,The Philadelphia Story,7.8,George Cukor,944000,413654,1 hour 52 minutes,United States
+899,Singin' in the Rain,8.3,Stanley DonenGene Kelly,2540800,2093682,1 hour 43 minutes,United States
+900,An American in Paris,7.1,Vincente Minnelli,2723903,275077,1 hour 54 minutes,United States
+901,Funny Face,7.0,Stanley Donen,3000000,1669,1 hour 43 minutes,United States
+902,Breakfast at Tiffany's,7.6,Blake Edwards,2500000,600450,1 hour 55 minutes,United States
+903,Vertigo,8.3,Alfred Hitchcock,2479000,7968347,2 hours 8 minutes,United States
+904,Rear Window,8.5,Alfred Hitchcock,1000000,37905475,1 hour 52 minutes,United States
+905,It Happened One Night,8.1,Frank Capra,325000,16993,1 hour 45 minutes,United States
+906,Gaslight,7.8,George Cukor,,2391,1 hour 54 minutes,United States
+907,The Gay Divorcee,7.4,Mark Sandrich,520000,6879,1 hour 47 minutes,United States
+908,North by Northwest,8.3,Alfred Hitchcock,3101000,192323,2 hours 16 minutes,United States
+909,The Apartment,8.3,Billy Wilder,3000000,18783770,2 hours 5 minutes,United States
+910,Some Like It Hot,8.2,Billy Wilder,2883848,208786,2 hours 1 minute,United States
+911,Charade,7.8,Stanley Donen,3000000,175119,1 hour 53 minutes,United States
+912,Casablanca,8.5,Michael Curtiz,950000,4727083,1 hour 42 minutes,United States
+913,The Maltese Falcon,7.9,John Huston,375000,39387,1 hour 40 minutes,United States
+914,My Fair Lady,7.7,George Cukor,17000000,72685970,2 hours 50 minutes,United States
+915,Sabrina,7.6,Billy Wilder,2238813,2635,1 hour 53 minutes,United States
+916,Roman Holiday,8.0,William Wyler,1500000,101289,1 hour 58 minutes,United States
+917,The Little Princess,7.1,Walter LangWilliam A. Seiter,1000000,,1 hour 33 minutes,United States
+918,Meet Me in St. Louis,7.5,Vincente Minnelli,1700000,502778,1 hour 53 minutes,United States
+919,The Wizard of Oz,8.1,Victor FlemingKing Vidor,2777000,25637669,1 hour 42 minutes,United States
+920,Gone with the Wind,8.2,Victor Fleming,3977000,402382193,3 hours 58 minutes,United States
+921,My Favorite Year,7.3,Richard Benjamin,7900000,20123620,1 hour 32 minutes,United States
+922,Sunset Boulevard,8.4,Billy Wilder,1752000,309467,1 hour 50 minutes,United States
+923,Citizen Kane,8.3,Orson Welles,839727,1707754,1 hour 59 minutes,United States
+924,2001: A Space Odyssey,8.3,Stanley Kubrick,12000000,66786256,2 hours 29 minutes,United Kingdom|United States
+926,All About Eve,8.2,Joseph L. Mankiewicz,1400000,154736,2 hours 18 minutes,United States
+927,The Women,7.7,George Cukor,1688000,16161,2 hours 13 minutes,United States
+928,Rebecca,8.1,Alfred Hitchcock,1288000,113328,2 hours 10 minutes,United States
+929,Foreign Correspondent,7.4,Alfred Hitchcock,1500000,782,2 hours,United States
+930,Notorious,7.9,Alfred Hitchcock,2000000,117060,1 hour 42 minutes,United States
+931,Spellbound,7.5,Alfred Hitchcock,1696377,19000,1 hour 51 minutes,United States
+932,An Affair to Remember,7.4,Leo McCarey,,3856344,1 hour 55 minutes,United States
+933,To Catch a Thief,7.4,Alfred Hitchcock,2500000,7117,1 hour 46 minutes,United States
+934,Father of the Bride,7.1,Vincente Minnelli,,,1 hour 32 minutes,United States
+935,The Band Wagon,7.4,Vincente Minnelli,2169120,15009,1 hour 52 minutes,United States
+936,Ninotchka,7.8,Ernst Lubitsch,1365000,2477,1 hour 50 minutes,United States
+937,Love in the Afternoon,7.1,Billy Wilder,2100000,718,2 hours 10 minutes,United States
+938,Gigi,6.6,Vincente MinnelliCharles Walters,3319355,,1 hour 55 minutes,United States
+940,The Adventures of Robin Hood,7.9,Michael CurtizWilliam Keighley,1900000,291,1 hour 42 minutes,United States
+941,The Mark of Zorro,7.5,Rouben Mamoulian,1000000,10248,1 hour 34 minutes,United States
+942,Laura,7.9,Otto PremingerRouben Mamoulian,1020000,151,1 hour 28 minutes,United States
+943,The Ghost and Mrs. Muir,7.8,Joseph L. Mankiewicz,,29545,1 hour 44 minutes,United States
+944,Lost Horizon,7.6,Frank Capra,4000000,,2 hours 12 minutes,United States
+945,Top Hat,7.7,Mark Sandrich,609000,13592,1 hour 41 minutes,United States
+946,To Be or Not to Be,8.1,Ernst Lubitsch,,4578000,1 hour 39 minutes,United States
+947,My Man Godfrey,7.9,Gregory La Cava,656000,,1 hour 34 minutes,United States
+948,Giant,7.6,George Stevens,5400000,32857066,3 hours 21 minutes,United States
+949,East of Eden,7.8,Elia Kazan,,28821,1 hour 58 minutes,United States
+950,The Thin Man,7.9,W.S. Van Dyke,226408,,1 hour 31 minutes,United States
+951,His Girl Friday,7.8,Howard Hawks,,,1 hour 32 minutes,United States
+952,Around the World in Eighty Days,6.7,Michael AndersonJohn Farrow,6000000,42009549,2 hours 47 minutes,United States
+953,It's a Wonderful Life,8.6,Frank Capra,3180000,10635461,2 hours 10 minutes,United States
+954,Mr. Smith Goes to Washington,8.1,Frank Capra,1900000,146123,2 hours 9 minutes,United States
+955,Bringing Up Baby,7.8,Howard Hawks,1073000,13054,1 hour 42 minutes,United States
+956,Penny Serenade,7.1,George Stevens,,,1 hour 59 minutes,United States
+959,Of Human Bondage,7.0,John Cromwell,403000,,1 hour 23 minutes,United States
+961,Little Lord Fauntleroy,7.3,John Cromwell,,,1 hour 42 minutes,United States
+963,The Inspector General,6.7,Henry Koster,2873000,,1 hour 42 minutes,United States
+965,The 39 Steps,7.6,Alfred Hitchcock,,52623,1 hour 26 minutes,United Kingdom
+968,Night of the Living Dead,7.8,George A. Romero,114000,237994,1 hour 36 minutes,United States
+969,The African Queen,7.7,John Huston,1000000,46305,1 hour 45 minutes,United Kingdom|United States
+970,Beat the Devil,6.4,John Huston,1000000,,1 hour 29 minutes,United Kingdom|Italy
+971,Cat on a Hot Tin Roof,7.9,Richard Brooks,3000000,1872,1 hour 48 minutes,United States
+973,Meet John Doe,7.6,Frank Capra,,,2 hours 15 minutes,United States
+976,A Farewell to Arms,6.4,Frank Borzage,799520,,1 hour 20 minutes,United States
+979,Nothing Personal,6.8,Thaddeus O'Sullivan,,40374,1 hour 25 minutes,United Kingdom|Ireland
+981,Dangerous Ground,4.5,Darrell Roodt,,5406742,1 hour 35 minutes,United States|South Africa
+982,Picnic,7.0,Joshua Logan,,,1 hour 55 minutes,United States
+984,The Pompatus of Love,5.3,Richard Schenkman,,,1 hour 39 minutes,France|United States
+986,Fly Away Home,6.9,Carroll Ballard,22000000,25143818,1 hour 47 minutes,United States
+987,Bliss,6.0,Lance Young,,294064,1 hour 43 minutes,Canada|United States
+988,Grace of My Heart,6.7,Allison Anders,5000000,660313,1 hour 56 minutes,United States
+990,Maximum Risk,5.6,Ringo Lam,25000000,14502483,1 hour 41 minutes,United States
+991,Michael Collins,7.1,Neil Jordan,25000000,11136590,2 hours 13 minutes,Ireland|United Kingdom|United States
+993,Infinity,6.1,Matthew Broderick,,195170,1 hour 59 minutes,United States
+994,Big Night,7.3,Campbell ScottStanley Tucci,4100000,12009094,1 hour 49 minutes,United States
+996,Last Man Standing,6.4,Walter Hill,67000000,47267001,1 hour 41 minutes,United States
+998,Set It Off,6.9,F. Gary Gray,9000000,41590886,2 hours 3 minutes,United States
+999,2 Days in the Valley,6.5,John Herzfeld,,11132210,1 hour 44 minutes,United States
+1003,Extreme Measures,6.2,Michael Apted,38000000,17380126,1 hour 58 minutes,United Kingdom|United States|Canada
+1004,The Glimmer Man,5.4,John Gray,45000000,20351264,1 hour 31 minutes,United States
+1005,D3: The Mighty Ducks,5.5,Robert Lieberman,,22955097,1 hour 44 minutes,United States
+1006,The Chamber,6.0,James Foley,50000000,22540359,1 hour 53 minutes,United States
+1007,The Apple Dumpling Gang,6.4,Norman Tokar,,36853000,1 hour 40 minutes,United States
+1008,Davy Crockett: King of the Wild Frontier,6.8,Norman Foster,,,1 hour 33 minutes,United States
+1009,Escape to Witch Mountain,6.3,John Hough,,20000000,1 hour 37 minutes,United States
+1010,The Love Bug,6.5,Robert Stevenson,,51264022,1 hour 48 minutes,United States
+1011,Herbie Rides Again,5.7,Robert Stevenson,,38229000,1 hour 28 minutes,United States
+1012,Old Yeller,7.2,Robert Stevenson,,91,1 hour 23 minutes,United States
+1013,The Parent Trap,7.2,David Swift,,29650385,2 hours 9 minutes,United States
+1014,Pollyanna,7.4,David Swift,,,2 hours 14 minutes,United States
+1015,Homeward Bound: The Incredible Journey,7.0,Duwayne Dunham,,41833324,1 hour 24 minutes,United States
+1016,The Shaggy Dog,6.4,Charles Barton,,,1 hour 44 minutes,United States
+1017,Swiss Family Robinson,7.1,Ken Annakin,5000000,40357287,2 hours 6 minutes,United States
+1018,That Darn Cat!,6.7,Robert Stevenson,,,1 hour 56 minutes,United States
+1019,"20,000 Leagues Under the Sea",7.2,Richard Fleischer,9000000,746,2 hours 7 minutes,United States
+1020,Cool Runnings,7.0,Jon Turteltaub,14000000,154856263,1 hour 38 minutes,United States
+1021,Angels in the Outfield,6.2,William Dear,24000000,50236831,1 hour 42 minutes,United States
+1022,Cinderella,7.3,Clyde GeronimiWilfred JacksonHamilton Luske,2900000,96383330,1 hour 14 minutes,United States
+1023,Winnie the Pooh and the Blustery Day,7.9,Wolfgang ReithermanBen Sharpsteen,,,25 minutes,United States
+1024,The Three Caballeros,6.3,Norman FergusonClyde GeronimiJack Kinney,,,1 hour 11 minutes,United States
+1025,The Sword in the Stone,7.1,Wolfgang ReithermanClyde GeronimiDavid Hand,3000000,12000000,1 hour 19 minutes,United States
+1027,Robin Hood: Prince of Thieves,6.9,Kevin Reynolds,48000000,390493908,2 hours 23 minutes,United States
+1028,Mary Poppins,7.8,Robert Stevenson,6000000,103125597,2 hours 19 minutes,United States
+1029,Dumbo,7.2,Samuel ArmstrongNorman FergusonWilfred Jackson,950000,3890,1 hour 4 minutes,United States
+1030,Pete's Dragon,6.3,Don ChaffeyDon Bluth,10000000,39588000,2 hours 8 minutes,United States
+1031,Bedknobs and Broomsticks,7.1,Robert StevensonWard Kimball,20000000,844,1 hour 57 minutes,United States
+1032,Alice in Wonderland,7.3,Clyde GeronimiWilfred JacksonHamilton Luske,3000000,865,1 hour 15 minutes,United States
+1033,The Fox and the Hound,7.2,Ted BermanRichard RichArt Stevens,12000000,63456988,1 hour 23 minutes,United States
+1034,Freeway,6.8,Matthew Bright,3000000,295493,1 hour 44 minutes,United States|France
+1035,The Sound of Music,8.1,Robert Wise,8200000,159484051,2 hours 52 minutes,United States
+1036,Die Hard,8.2,John McTiernan,28000000,143651650,2 hours 12 minutes,United States
+1037,The Lawnmower Man,5.4,Brett Leonard,10000000,32100816,1 hour 48 minutes,United Kingdom|Japan
+1040,The Secret Agent,5.6,Christopher Hampton,7000000,106606,1 hour 35 minutes,United Kingdom
+1041,Secrets & Lies,8.0,Mike Leigh,4500000,13417292,2 hours 16 minutes,United Kingdom|France
+1042,That Thing You Do!,7.0,Tom Hanks,26000000,34585416,1 hour 48 minutes,United States
+1043,To Gillian on Her 37th Birthday,5.8,Michael Pressman,,4189233,1 hour 33 minutes,United States
+1046,Beautiful Thing,7.6,Hettie Macdonald,,2176488,1 hour 30 minutes,United Kingdom
+1047,The Long Kiss Goodnight,6.8,Renny Harlin,65000000,89456761,2 hours 1 minute,United States
+1049,The Ghost and the Darkness,6.8,Stephen Hopkins,55000000,38619405,1 hour 50 minutes,United States|Germany
+1050,Looking for Richard,7.3,Al Pacino,,1408575,1 hour 52 minutes,United States
+1051,Trees Lounge,7.1,Steve Buscemi,1300000,749741,1 hour 35 minutes,United States
+1053,Normal Life,6.2,John McNaughton,,22891,1 hour 41 minutes,United States
+1054,Get on the Bus,6.9,Spike Lee,2400000,5754249,2 hours,United States
+1055,Shadow Conspiracy,4.9,George P. Cosmatos,45000000,2312463,1 hour 43 minutes,United States
+1056,Jude,6.9,Michael Winterbottom,7000000,409144,2 hours 3 minutes,United Kingdom
+1057,Everyone Says I Love You,6.7,Woody Allen,20000000,9759200,1 hour 41 minutes,United States
+1059,Romeo + Juliet,6.7,Baz Luhrmann,14500000,147554998,2 hours,United States|Mexico|Australia|Canada
+1060,Swingers,7.2,Doug Liman,200000,4555020,1 hour 36 minutes,United States
+1061,Sleepers,7.5,Barry Levinson,44000000,165615285,2 hours 27 minutes,United States
+1064,Aladdin and the King of Thieves,6.3,Tad Stones,,,1 hour 21 minutes,United States|Australia|Japan
+1066,Shall We Dance,7.4,Mark Sandrich,991000,6662,1 hour 49 minutes,United States
+1068,Crossfire,7.3,Edward Dmytryk,250000,,1 hour 26 minutes,United States
+1073,Willy Wonka & the Chocolate Factory,7.8,Mel Stuart,3000000,687059,1 hour 40 minutes,United Kingdom|United States
+1076,The Innocents,7.7,Jack Clayton,,30221,1 hour 40 minutes,United Kingdom|United States
+1077,Sleeper,7.1,Woody Allen,2000000,18344868,1 hour 29 minutes,United States
+1078,Bananas,6.9,Woody Allen,2000000,136200,1 hour 22 minutes,United States
+1079,A Fish Called Wanda,7.5,Charles CrichtonJohn Cleese,7500000,62493712,1 hour 48 minutes,United Kingdom|United States
+1080,Life of Brian,8.0,Terry Jones,4000000,20831345,1 hour 34 minutes,United Kingdom
+1081,Victor/Victoria,7.6,Blake Edwards,,28229440,2 hours 14 minutes,United Kingdom|United States
+1082,The Candidate,7.0,Michael Ritchie,1500000,,1 hour 50 minutes,United States
+1083,The Great Race,7.2,Blake Edwards,12000000,,2 hours 40 minutes,United States
+1084,Bonnie and Clyde,7.7,Arthur Penn,2500000,1475,1 hour 51 minutes,United States
+1085,The Old Man and the Sea,6.9,John SturgesFred Zinnemann,5000000,67740,1 hour 26 minutes,United States
+1086,Dial M for Murder,8.2,Alfred Hitchcock,1400000,45313,1 hour 45 minutes,United States
+1088,Dirty Dancing,7.1,Emile Ardolino,6000000,214577242,1 hour 40 minutes,United States
+1089,Reservoir Dogs,8.3,Quentin Tarantino,1200000,2932006,1 hour 39 minutes,United States
+1090,Platoon,8.1,Oliver Stone,6000000,138545632,2 hours,United States|United Kingdom
+1091,Weekend at Bernie's,6.4,Ted Kotcheff,,30218387,1 hour 37 minutes,United States
+1092,Basic Instinct,7.1,Paul Verhoeven,49000000,352927224,2 hours 7 minutes,France|United States|United Kingdom
+1093,The Doors,7.2,Oliver Stone,38000000,34505119,2 hours 20 minutes,France|United States
+1094,The Crying Game,7.2,Neil Jordan,,62548947,1 hour 52 minutes,United Kingdom|Japan
+1095,Glengarry Glen Ross,7.7,James Foley,12500000,10726612,1 hour 40 minutes,United States
+1096,Sophie's Choice,7.5,Alan J. Pakula,12000000,30036166,2 hours 30 minutes,United Kingdom|United States
+1097,E.T. the Extra-Terrestrial,7.9,Steven Spielberg,10500000,797307407,1 hour 55 minutes,United States
+1099,A Christmas Carol,7.5,Edwin L. Marin,,,1 hour 9 minutes,United States
+1100,Days of Thunder,6.1,Tony Scott,60000000,157920733,1 hour 47 minutes,United States
+1101,Top Gun,7.0,Tony Scott,15000000,357288178,1 hour 49 minutes,United States
+1103,Rebel Without a Cause,7.6,Nicholas Ray,1500000,217945,1 hour 51 minutes,United States
+1104,A Streetcar Named Desire,7.9,Elia Kazan,1800000,53162,2 hours 2 minutes,United States
+1105,Children of the Corn: The Gathering,4.3,Greg Spence,,,1 hour 25 minutes,United States
+1107,Loser,7.4,Erik Burke,,,1 hour 24 minutes,United States
+1111,Microcosmos : le peuple de l'herbe,7.9,Claude NuridsanyMarie Pérennou,,1433210,1 hour 20 minutes,France|Switzerland|Italy|United Kingdom
+1112,Palookaville,6.5,Alan Taylor,,365284,1 hour 32 minutes,United States
+1114,The Funeral,6.6,Abel Ferrara,12500000,1227324,1 hour 39 minutes,United States
+1116,La fille seule,6.7,Benoît Jacquot,,230049,1 hour 30 minutes,France
+1117,Le huitième jour,7.5,Jaco Van Dormael,,33031984,1 hour 58 minutes,Belgium|France|United Kingdom
+1119,Drunks,6.3,Peter Cohn,,38268,1 hour 30 minutes,United States
+1120,The People vs. Larry Flynt,7.3,Milos Forman,36000000,20300385,2 hours 10 minutes,United States
+1121,Glory Daze,5.6,Rich Wilkes,,15134,1 hour 40 minutes,United States
+1123,A Perfect Candidate,7.3,R.J. CutlerDavid Van Taylor,,134485,1 hour 45 minutes,United States
+1124,On Golden Pond,7.6,Mark Rydell,7500000,119285810,1 hour 49 minutes,United States
+1125,The Return of the Pink Panther,7.0,Blake Edwards,5000000,41833423,1 hour 53 minutes,United Kingdom|United States
+1126,Drop Dead Fred,6.0,Ate de Jong,6788000,13884358,1 hour 43 minutes,United Kingdom|United States
+1127,The Abyss,7.5,James Cameron,70000000,90520202,2 hours 20 minutes,United States
+1128,The Fog,6.8,John Carpenter,1100000,21448830,1 hour 29 minutes,United States
+1129,Escape from New York,7.1,John Carpenter,6000000,25276664,1 hour 39 minutes,United Kingdom|United States
+1130,The Howling,6.5,Joe Dante,1000000,17985893,1 hour 31 minutes,United States
+1131,Jean de Florette,8.1,Claude Berri,,4940939,2 hours,Switzerland|France|Italy
+1132,Manon des sources,8.0,Claude Berri,,3940542,1 hour 53 minutes,Switzerland|France|Italy
+1135,Private Benjamin,6.2,Howard Zieff,9500000,69847348,1 hour 49 minutes,United States
+1136,Monty Python and the Holy Grail,8.2,Terry GilliamTerry Jones,,2817496,1 hour 31 minutes,United Kingdom
+1137,Hustler White,5.8,Rick CastroBruce LaBruce,,,1 hour 19 minutes,Canada|Germany
+1140,Entertaining Angels: The Dorothy Day Story,6.2,Michael Ray Rhodes,,,1 hour 50 minutes,United States
+1144,The Line King: The Al Hirschfeld Story,7.3,Susan Warms Dryfoos,,50605,1 hour 26 minutes,United States
+1147,When We Were Kings,7.9,Leon Gast,,2789985,1 hour 28 minutes,United States
+1148,The Wrong Trousers,8.3,Nick Park,,,29 minutes,United Kingdom
+1150,Le retour de Martin Guerre,7.4,Daniel Vigne,,3723036,1 hour 52 minutes,France
+1151,Lekce Faust,7.4,Jan Svankmajer,,2117923,1 hour 37 minutes,Czech Republic|France|United Kingdom|Germany
+1156,I bambini ci guardano,7.7,Vittorio De Sica,,,1 hour 24 minutes,Italy
+1161,Die Blechtrommel,7.4,Volker Schlöndorff,,7469,2 hours 22 minutes,West Germany|France|Poland
+1162,The Ruling Class,7.2,Peter Medak,,,2 hours 34 minutes,United Kingdom
+1163,Mina Tannenbaum,7.1,Martine Dugowson,,,2 hours 8 minutes,France|Netherlands|Belgium
+1167,Dear God,5.5,Garry Marshall,22000000,7138523,1 hour 52 minutes,United States
+1170,Best of the Best 3: No Turning Back,4.9,Phillip Rhee,,,1 hour 30 minutes,United States
+1171,Bob Roberts,7.0,Tim Robbins,3900000,4479470,1 hour 42 minutes,United Kingdom|United States
+1172,Nuovo Cinema Paradiso,8.5,Giuseppe Tornatore,5000000,13020497,2 hours 54 minutes,Italy|France
+1173,"The Cook, the Thief, His Wife & Her Lover",7.5,Peter Greenaway,,8526030,2 hours 4 minutes,Netherlands|United Kingdom|France
+1175,Delicatessen,7.5,Marc CaroJean-Pierre Jeunet,,1804142,1 hour 39 minutes,France
+1176,La double vie de Véronique,7.6,Krzysztof Kieslowski,,2175939,1 hour 38 minutes,France|Poland|Norway
+1177,Enchanted April,7.3,Mike Newell,,13200170,1 hour 35 minutes,United Kingdom
+1178,Paths of Glory,8.4,Stanley Kubrick,935000,8290,1 hour 28 minutes,United States
+1179,The Grifters,6.9,Stephen Frears,,13446769,1 hour 50 minutes,United States|Canada
+1180,Hear My Song,7.0,Peter Chelsom,,4313473,1 hour 53 minutes,Ireland|United Kingdom
+1183,The English Patient,7.4,Anthony Minghella,27000000,231976425,2 hours 42 minutes,United States|United Kingdom
+1184,Mediterraneo,7.4,Gabriele Salvatores,,4532791,1 hour 36 minutes,Italy
+1185,My Left Foot: The Story of Christy Brown,7.8,Jim Sheridan,,14743391,1 hour 43 minutes,Ireland|United Kingdom
+1186,"Sex, Lies, and Videotape",7.2,Steven Soderbergh,1200000,24742453,1 hour 40 minutes,United States
+1187,Passion Fish,7.3,John Sayles,3330000,4814619,2 hours 15 minutes,United States
+1188,Strictly Ballroom,7.2,Baz Luhrmann,,11759033,1 hour 34 minutes,Australia|United Kingdom
+1189,The Thin Blue Line,7.9,Errol Morris,,1209846,1 hour 41 minutes,United States
+1190,Átame!,7.0,Pedro Almodóvar,,4089145,1 hour 41 minutes,Spain
+1191,Madonna: Truth or Dare,6.4,Alek Keshishian,4500000,29012935,2 hours,United States
+1192,Paris Is Burning,8.2,Jennie Livingston,500000,3906006,1 hour 18 minutes,United Kingdom|United States
+1193,One Flew Over the Cuckoo's Nest,8.7,Milos Forman,3000000,109115366,2 hours 13 minutes,United States
+1194,Up in Smoke,6.9,Lou AdlerTommy Chong,2000000,44364244,1 hour 26 minutes,United States
+1196,Star Wars: Episode V - The Empire Strikes Back,8.7,Irvin Kershner,18000000,550016086,2 hours 4 minutes,United States
+1197,The Princess Bride,8.0,Rob Reiner,16000000,30978648,1 hour 38 minutes,United States
+1198,Raiders of the Lost Ark,8.4,Steven Spielberg,18000000,389925971,1 hour 55 minutes,United States
+1199,Brazil,7.8,Terry Gilliam,15000000,9949953,2 hours 12 minutes,United Kingdom|United States
+1200,Aliens,8.4,James Cameron,18500000,131060248,2 hours 17 minutes,United Kingdom|United States
+1201,"Il buono, il brutto, il cattivo",8.8,Sergio Leone,1200000,25264999,2 hours 41 minutes,Italy|Spain|West Germany|United States
+1202,Withnail & I,7.5,Bruce Robinson,,1950623,1 hour 47 minutes,United Kingdom
+1203,12 Angry Men,9.0,Sidney Lumet,350000,2945,1 hour 36 minutes,United States
+1204,Lawrence of Arabia,8.3,David Lean,15000000,45764288,3 hours 47 minutes,United Kingdom|United States
+1206,A Clockwork Orange,8.2,Stanley Kubrick,2200000,27034174,2 hours 16 minutes,United Kingdom|United States
+1207,To Kill a Mockingbird,8.3,Robert Mulligan,2000000,601391,2 hours 9 minutes,United States
+1208,Apocalypse Now,8.4,Francis Ford Coppola,31500000,105086099,2 hours 27 minutes,United States
+1209,C'era una volta il West,8.5,Sergio Leone,5000000,5435312,2 hours 46 minutes,Italy|United States
+1210,Star Wars: Episode VI - Return of the Jedi,8.3,Richard Marquand,32500000,482466382,2 hours 11 minutes,United States
+1211,Der Himmel über Berlin,7.9,Wim Wenders,,3518525,2 hours 8 minutes,West Germany|France
+1212,The Third Man,8.1,Carol Reed,,1406393,1 hour 44 minutes,United Kingdom
+1213,GoodFellas,8.7,Martin Scorsese,25000000,47057986,2 hours 25 minutes,United States
+1214,Alien,8.5,Ridley Scott,11000000,108610231,1 hour 57 minutes,United Kingdom|United States
+1215,Army of Darkness,7.4,Sam Raimi,11000000,11514639,1 hour 21 minutes,United States
+1216,Le grand bleu,7.5,Luc Besson,,3992246,2 hours 48 minutes,France|Italy|United States
+1217,Ran,8.2,Akira Kurosawa,11500000,4172871,2 hours 40 minutes,Japan|France
+1218,Dip huet seung hung,7.7,John Woo,,2340425,1 hour 51 minutes,Hong Kong
+1219,Psycho,8.5,Alfred Hitchcock,806947,32248065,1 hour 49 minutes,United States
+1220,The Blues Brothers,7.9,John Landis,27500000,115229890,2 hours 13 minutes,United States
+1221,The Godfather Part II,9.0,Francis Ford Coppola,13000000,47964222,3 hours 22 minutes,United States
+1222,Full Metal Jacket,8.2,Stanley Kubrick,30000000,50193748,1 hour 56 minutes,United Kingdom|United States
+1223,A Grand Day Out,7.7,Nick Park,,67477,23 minutes,United Kingdom
+1224,Henry V,7.5,Kenneth Branagh,9000000,10161211,2 hours 17 minutes,United Kingdom
+1225,Amadeus,8.4,Milos Forman,18000000,52111568,2 hours 40 minutes,United States|France
+1226,The Quiet Man,7.7,John Ford,1750000,,2 hours 9 minutes,United States
+1227,Once Upon a Time in America,8.3,Sergio Leone,30000000,5476126,3 hours 49 minutes,Italy|United States
+1228,Raging Bull,8.1,Martin Scorsese,18000000,23405883,2 hours 9 minutes,United States
+1230,Annie Hall,7.9,Woody Allen,4000000,38289445,1 hour 33 minutes,United States
+1231,The Right Stuff,7.8,Philip Kaufman,27000000,21192315,3 hours 13 minutes,United States
+1232,Stalker,8.0,Andrei Tarkovsky,,438245,2 hours 42 minutes,Soviet Union
+1233,Das Boot,8.4,Wolfgang Petersen,,11488778,2 hours 29 minutes,West Germany
+1234,The Sting,8.3,George Roy Hill,5500000,156000000,2 hours 9 minutes,United States
+1235,Harold and Maude,7.9,Hal Ashby,1200000,4535,1 hour 31 minutes,United States
+1236,Trust,7.4,Hal Hartley,700000,357400,1 hour 47 minutes,United Kingdom|United States
+1237,Det sjunde inseglet,8.1,Ingmar Bergman,150000,311212,1 hour 36 minutes,Sweden
+1238,Local Hero,7.3,Bill Forsyth,,5975220,1 hour 51 minutes,United Kingdom
+1240,The Terminator,8.1,James Cameron,6400000,78371200,1 hour 47 minutes,United Kingdom|United States
+1241,Braindead,7.5,Peter Jackson,3000000,242623,1 hour 44 minutes,New Zealand
+1242,Glory,7.8,Edward Zwick,18000000,26979166,2 hours 2 minutes,United States
+1243,Rosencrantz & Guildenstern Are Dead,7.3,Tom Stoppard,,739104,1 hour 57 minutes,United Kingdom|United States
+1244,Manhattan,7.8,Woody Allen,9000000,40194067,1 hour 36 minutes,United States
+1245,Miller's Crossing,7.7,Joel CoenEthan Coen,14000000,5080409,1 hour 55 minutes,United States
+1246,Dead Poets Society,8.1,Peter Weir,16400000,235860116,2 hours 8 minutes,United States
+1247,The Graduate,8.0,Mike Nichols,3000000,105017024,1 hour 46 minutes,United States
+1248,Touch of Evil,7.9,Orson Welles,829000,2285063,1 hour 35 minutes,United States
+1249,Nikita,7.3,Luc Besson,,5018604,1 hour 57 minutes,France|Italy
+1250,The Bridge on the River Kwai,8.1,David Lean,3000000,27201366,2 hours 41 minutes,United Kingdom|United States
+1251,8½,8.0,Federico Fellini,,200502,2 hours 18 minutes,Italy|France
+1252,Chinatown,8.1,Roman Polanski,6000000,29231954,2 hours 10 minutes,United States
+1253,The Day the Earth Stood Still,7.7,Robert Wise,1200000,651,1 hour 32 minutes,United States
+1254,The Treasure of the Sierra Madre,8.2,John Huston,3000000,5014000,2 hours 6 minutes,United States
+1255,Bad Taste,6.5,Peter Jackson,200000,,1 hour 31 minutes,New Zealand
+1256,Duck Soup,7.7,Leo McCarey,,106318,1 hour 9 minutes,United States
+1257,Better Off Dead...,7.1,Savage Steve Holland,,10297601,1 hour 37 minutes,United States
+1258,The Shining,8.4,Stanley Kubrick,19000000,47962534,2 hours 26 minutes,United Kingdom|United States
+1259,Stand by Me,8.1,Rob Reiner,8000000,53525035,1 hour 29 minutes,United States
+1260,M - Eine Stadt sucht einen Mörder,8.3,Fritz Lang,,35566,1 hour 57 minutes,Germany
+1261,Evil Dead II,7.7,Sam Raimi,3600000,5932279,1 hour 24 minutes,United States
+1262,The Great Escape,8.2,John Sturges,4000000,230637,2 hours 52 minutes,United States
+1263,The Deer Hunter,8.1,Michael Cimino,15000000,49080126,3 hours 3 minutes,United States|United Kingdom
+1264,Diva,7.1,Jean-Jacques Beineix,,183425,1 hour 57 minutes,France
+1265,Groundhog Day,8.0,Harold Ramis,14600000,71108778,1 hour 41 minutes,United States
+1266,Unforgiven,8.2,Clint Eastwood,14400000,159167799,2 hours 10 minutes,United States
+1267,The Manchurian Candidate,7.9,John Frankenheimer,2200000,2757256,2 hours 6 minutes,United States
+1268,Pump Up the Volume,7.2,Allan Moyle,,11541758,1 hour 42 minutes,United States|Canada
+1269,Arsenic and Old Lace,7.9,Frank Capra,1164000,,1 hour 58 minutes,United States
+1270,Back to the Future,8.5,Robert Zemeckis,19000000,385053307,1 hour 56 minutes,United States
+1271,Fried Green Tomatoes,7.7,Jon Avnet,11000000,119418501,2 hours 10 minutes,United States
+1272,Patton,7.9,Franklin J. Schaffner,12000000,61749765,2 hours 52 minutes,United States
+1273,Down by Law,7.6,Jim Jarmusch,1100000,1529199,1 hour 47 minutes,United States|West Germany
+1274,Akira,8.0,Katsuhiro Ôtomo,,3330836,2 hours 4 minutes,Japan
+1275,Highlander,7.0,Russell Mulcahy,16000000,5901480,1 hour 56 minutes,United Kingdom|United States
+1276,Cool Hand Luke,8.0,Stuart Rosenberg,3200000,1767,2 hours 7 minutes,United States
+1277,Cyrano de Bergerac,7.5,Jean-Paul Rappeneau,,5822041,2 hours 17 minutes,France
+1278,Young Frankenstein,8.0,Mel Brooks,2800000,86276706,1 hour 46 minutes,United States
+1279,Night on Earth,7.7,Jim Jarmusch,3500000,2113387,2 hours 9 minutes,United Kingdom|France|Germany|Japan|United States
+1280,Da hong denglong gaogao gua,8.1,Yimou Zhang,,2603061,2 hours 5 minutes,Hong Kong|China
+1281,The Great Dictator,8.4,Charles Chaplin,2000000,972212,2 hours 5 minutes,United States
+1282,Fantasia,7.7,James AlgarSamuel ArmstrongFord Beebe Jr.,2280000,76411978,2 hours 4 minutes,United States
+1283,High Noon,7.9,Fred Zinnemann,730000,217,1 hour 25 minutes,United States
+1284,The Big Sleep,7.9,Howard Hawks,250000,51050,1 hour 54 minutes,United States
+1285,Heathers,7.1,Michael Lehmann,3000000,1167227,1 hour 43 minutes,United States
+1286,Somewhere in Time,7.2,Jeannot Szwarc,5100000,9709597,1 hour 43 minutes,United States
+1287,Ben-Hur,8.1,William Wyler,15000000,74439376,3 hours 32 minutes,United States
+1288,This Is Spinal Tap,7.9,Rob Reiner,2500000,4739391,1 hour 22 minutes,United States
+1289,Koyaanisqatsi,8.2,Godfrey Reggio,,1728124,1 hour 26 minutes,United States
+1290,Some Kind of Wonderful,7.0,Howard Deutch,,18553948,1 hour 35 minutes,United States
+1291,Indiana Jones and the Last Crusade,8.2,Steven Spielberg,48000000,474171806,2 hours 7 minutes,United States
+1292,Being There,7.9,Hal Ashby,,30179435,2 hours 10 minutes,United States
+1293,Gandhi,8.0,Richard Attenborough,22000000,52768419,3 hours 11 minutes,United Kingdom|India
+1295,The Unbearable Lightness of Being,7.2,Philip Kaufman,17000000,10006806,2 hours 51 minutes,United States
+1296,A Room with a View,7.2,James Ivory,3000000,21062065,1 hour 57 minutes,United Kingdom|United States
+1297,Real Genius,6.9,Martha Coolidge,8000000,12952019,1 hour 48 minutes,United States
+1298,Pink Floyd: The Wall,8.0,Alan Parker,,22274148,1 hour 35 minutes,United Kingdom
+1299,The Killing Fields,7.8,Roland Joffé,14400000,34700291,2 hours 21 minutes,United Kingdom
+1300,Mitt liv som hund,7.6,Lasse Hallström,,8349284,1 hour 41 minutes,Sweden
+1301,Forbidden Planet,7.5,Fred M. Wilcox,1900000,,1 hour 38 minutes,United States

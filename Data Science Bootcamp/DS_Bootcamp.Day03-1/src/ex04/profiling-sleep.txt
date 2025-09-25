@@ -1,0 +1,749 @@
+('Total Revenue', '97,150,000.00', '96,773,000.00', '81,462,000.00', '53,823,000.00', '31,536,000.00')
+         294720 function calls (294516 primitive calls) in 8.921 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    5.000    5.000    5.000    5.000 {built-in method time.sleep}
+      302    2.727    0.009    2.727    0.009 {method 'read' of '_ssl._SSLSocket' objects}
+        1    0.653    0.653    0.653    0.653 {method 'do_handshake' of '_ssl._SSLSocket' objects}
+        1    0.224    0.224    0.224    0.224 {built-in method _socket.getaddrinfo}
+     2691    0.024    0.000    0.131    0.000 parser.py:301(parse_starttag)
+       40    0.022    0.001    0.022    0.001 {method 'decompress' of 'zlib.Decompress' objects}
+    22045    0.021    0.000    0.021    0.000 {method 'match' of 're.Pattern' objects}
+        2    0.018    0.009    0.214    0.107 parser.py:134(goahead)
+     2575    0.010    0.000    0.015    0.000 __init__.py:295(_replace_cdata_list_attribute_values)
+     2691    0.009    0.000    0.056    0.000 __init__.py:722(handle_starttag)
+     8092    0.009    0.000    0.009    0.000 element.py:156(setup)
+     5624    0.008    0.000    0.031    0.000 __init__.py:586(endData)
+     2691    0.008    0.000    0.067    0.000 _htmlparser.py:105(handle_starttag)
+     2692    0.007    0.000    0.027    0.000 element.py:1199(__init__)
+     2547    0.007    0.000    0.041    0.000 parser.py:379(parse_endtag)
+        1    0.006    0.006    0.006    0.006 models.py:909(text)
+       19    0.006    0.000    1.082    0.057 {method 'join' of 'bytes' objects}
+    13179    0.005    0.000    0.005    0.000 {method 'group' of 're.Match' objects}
+     8061    0.005    0.000    0.005    0.000 {method 'search' of 're.Pattern' objects}
+     2690    0.005    0.000    0.010    0.000 __init__.py:688(_popToTag)
+     2692    0.004    0.000    0.005    0.000 __init__.py:572(pushTag)
+    10747    0.004    0.000    0.008    0.000 _markupbase.py:44(updatepos)
+     2700    0.004    0.000    0.011    0.000 __init__.py:620(object_was_parsed)
+      302    0.004    0.000    2.735    0.009 ssl.py:1237(recv_into)
+    14609    0.004    0.000    0.004    0.000 {method 'lower' of 'str' objects}
+     2691    0.004    0.000    0.031    0.000 _htmlparser.py:160(handle_endtag)
+    17272    0.004    0.000    0.004    0.000 {method 'append' of 'list' objects}
+     7972    0.004    0.000    0.004    0.000 {method 'count' of 'str' objects}
+    13443    0.003    0.000    0.003    0.000 {method 'get' of 'dict' objects}
+20510/20502    0.003    0.000    0.004    0.000 {built-in method builtins.isinstance}
+     2700    0.003    0.000    0.009    0.000 element.py:943(__new__)
+     2691    0.003    0.000    0.004    0.000 __init__.py:558(popTag)
+      302    0.003    0.000    2.740    0.009 socket.py:693(readinto)
+    14049    0.003    0.000    0.003    0.000 {method 'end' of 're.Match' objects}
+     2690    0.003    0.000    0.027    0.000 __init__.py:763(handle_endtag)
+     2691    0.003    0.000    0.010    0.000 parser.py:345(check_for_whole_start_tag)
+     8342    0.003    0.000    0.003    0.000 {method 'startswith' of 'str' objects}
+       41    0.002    0.000    0.025    0.001 response.py:122(decompress)
+     1941    0.002    0.000    0.004    0.000 __init__.py:91(_replace_charref)
+     2191    0.002    0.000    0.002    0.000 {method 'findall' of 're.Pattern' objects}
+      302    0.002    0.000    2.730    0.009 ssl.py:1095(read)
+     2745    0.002    0.000    0.002    0.000 {built-in method __new__ of type object at 0xa43b40}
+     1430    0.002    0.000    0.002    0.000 __init__.py:648(_linkage_fixer)
+      413    0.002    0.000    0.005    0.000 {method 'sub' of 're.Pattern' objects}
+       64    0.002    0.000    1.046    0.016 {method 'read' of '_io.BufferedReader' objects}
+     2756    0.002    0.000    0.005    0.000 element.py:2303(search)
+        1    0.002    0.002    0.002    0.002 {method 'connect' of '_socket.socket' objects}
+     5812    0.001    0.000    0.007    0.000 __init__.py:122(unescape)
+     2700    0.001    0.000    0.002    0.000 __init__.py:523(string_container)
+     2605    0.001    0.000    0.003    0.000 _htmlparser.py:178(handle_data)
+        3    0.001    0.000    0.007    0.002 element.py:792(_find_all)
+5907/5900    0.001    0.000    0.001    0.000 {built-in method builtins.len}
+     2691    0.001    0.000    0.002    0.000 element.py:1371(is_empty_element)
+     5493    0.001    0.000    0.001    0.000 {method 'start' of 're.Match' objects}
+       41    0.001    0.000    0.904    0.022 response.py:1173(read_chunked)
+     2726    0.001    0.000    0.001    0.000 __init__.py:773(handle_data)
+      302    0.001    0.000    0.001    0.000 {method '_checkClosed' of '_io._IOBase' objects}
+     2699    0.001    0.000    0.001    0.000 {method 'endswith' of 'str' objects}
+     2692    0.001    0.000    0.001    0.000 __init__.py:205(can_be_empty_element)
+     2849    0.001    0.000    0.001    0.000 {method 'join' of 'str' objects}
+     2723    0.001    0.000    0.001    0.000 {method 'strip' of 'str' objects}
+     1440    0.001    0.000    0.002    0.000 element.py:2240(search_tag)
+        5    0.001    0.000    0.001    0.000 {method 'readlines' of '_io._IOBase' objects}
+        2    0.001    0.000    0.002    0.001 feedparser.py:469(_parse_headers)
+     2771    0.001    0.000    0.002    0.000 {built-in method builtins.next}
+      302    0.001    0.000    0.001    0.000 {method '_checkReadable' of '_io._IOBase' objects}
+       67    0.001    0.000    1.697    0.025 {method 'readline' of '_io.BufferedReader' objects}
+     3117    0.001    0.000    0.001    0.000 {built-in method builtins.hasattr}
+     2692    0.001    0.000    0.001    0.000 __init__.py:453(set_up_substitutions)
+        5    0.001    0.000    0.002    0.000 request.py:2505(getproxies_environment)
+     2579    0.001    0.000    0.001    0.000 {method 'keys' of 'dict' objects}
+        1    0.001    0.001    0.654    0.654 ssl.py:956(_create)
+       10    0.001    0.000    0.001    0.000 url.py:227(_encode_invalid_chars)
+     1909    0.001    0.000    0.001    0.000 {method 'rstrip' of 'str' objects}
+     2691    0.001    0.000    0.001    0.000 _markupbase.py:36(getpos)
+     2762    0.001    0.000    0.001    0.000 {method 'pop' of 'list' objects}
+       25    0.001    0.000    0.001    0.000 parse.py:374(urlparse)
+     5630    0.001    0.000    0.001    0.000 element.py:1586(__bool__)
+      339    0.000    0.000    0.000    0.000 {method 'decode' of 'bytes' objects}
+      306    0.000    0.000    0.000    0.000 {method '__exit__' of 'memoryview' objects}
+        5    0.000    0.000    0.000    0.000 {method 'write' of '_io.StringIO' objects}
+        1    0.000    0.000    0.000    0.000 netrc.py:66(netrc)
+     2760    0.000    0.000    0.000    0.000 element.py:2062(descendants)
+     2547    0.000    0.000    0.000    0.000 parser.py:127(clear_cdata_mode)
+       61    0.000    0.000    0.876    0.014 client.py:633(_safe_read)
+        6    0.000    0.000    0.004    0.001 feedparser.py:216(_parsegen)
+       13    0.000    0.000    0.002    0.000 <frozen _collections_abc>:974(update)
+      304    0.000    0.000    0.000    0.000 socket.py:732(readable)
+       40    0.000    0.000    0.876    0.022 response.py:1151(_handle_chunk)
+      3/2    0.000    0.000    2.544    1.272 sessions.py:159(resolve_redirects)
+        8    0.000    0.000    0.001    0.000 {built-in method builtins.__build_class__}
+      608    0.000    0.000    0.000    0.000 ssl.py:1083(_checkClosed)
+      2/1    0.000    0.000    3.684    3.684 sessions.py:673(send)
+       42    0.000    0.000    0.025    0.001 response.py:469(_decode)
+    44/14    0.000    0.000    0.000    0.000 {built-in method _abc._abc_subclasscheck}
+       10    0.000    0.000    0.001    0.000 connection.py:355(putheader)
+        2    0.000    0.000    0.000    0.000 {built-in method marshal.loads}
+     1821    0.000    0.000    0.000    0.000 {built-in method builtins.chr}
+       11    0.000    0.000    0.000    0.000 {built-in method posix.stat}
+        2    0.000    0.000    0.002    0.001 connection.py:369(request)
+       40    0.000    0.000    0.001    0.000 _policybase.py:301(header_source_parse)
+  129/127    0.000    0.000    0.000    0.000 {method 'encode' of 'str' objects}
+      188    0.000    0.000    0.000    0.000 <frozen os>:766(decode)
+      120    0.000    0.000    0.002    0.000 _markupbase.py:165(parse_comment)
+       12    0.000    0.000    0.000    0.000 message.py:529(get_all)
+   188/73    0.000    0.000    0.001    0.000 element.py:2336(_matches)
+      185    0.000    0.000    0.001    0.000 <frozen os>:703(__iter__)
+       41    0.000    0.000    0.001    0.000 response.py:1133(_update_chunk_length)
+       48    0.000    0.000    0.001    0.000 feedparser.py:127(__next__)
+        2    0.000    0.000    0.000    0.000 poolmanager.py:95(_default_key_normalizer)
+        1    0.000    0.000    0.882    0.882 connection.py:669(connect)
+        2    0.000    0.000    1.704    0.852 client.py:324(begin)
+        1    0.000    0.000    0.000    0.000 {method '_wrap_socket' of '_ssl._SSLContext' objects}
+      225    0.000    0.000    0.001    0.000 {built-in method _abc._abc_instancecheck}
+       12    0.000    0.000    0.001    0.000 queue.py:122(put)
+       65    0.000    0.000    0.000    0.000 structures.py:46(__setitem__)
+        2    0.000    0.000    0.232    0.116 client.py:213(_read_headers)
+        4    0.000    0.000    0.002    0.000 feedparser.py:100(push)
+       10    0.000    0.000    0.001    0.000 client.py:1292(putheader)
+       33    0.000    0.000    0.000    0.000 parse.py:119(_coerce_args)
+        1    0.000    0.000    0.226    0.226 connection.py:27(create_connection)
+        4    0.000    0.000    0.000    0.000 parse.py:452(urlsplit)
+       16    0.000    0.000    0.001    0.000 message.py:494(get)
+       62    0.000    0.000    0.000    0.000 {method 'find' of 'str' objects}
+        2    0.000    0.000    2.593    1.296 connectionpool.py:592(urlopen)
+      120    0.000    0.000    0.002    0.000 _htmlparser.py:241(handle_comment)
+        2    0.000    0.000    0.001    0.000 _collections.py:335(extend)
+       54    0.000    0.000    0.000    0.000 utils.py:52(_has_surrogates)
+       22    0.000    0.000    0.000    0.000 parse.py:205(_hostinfo)
+       52    0.000    0.000    0.000    0.000 _policybase.py:289(_sanitize_header)
+        2    0.000    0.000    1.706    0.853 connection.py:485(getresponse)
+       23    0.000    0.000    0.000    0.000 <frozen os>:680(__getitem__)
+       48    0.000    0.000    0.000    0.000 _collections.py:257(__getitem__)
+        2    0.000    0.000    0.006    0.003 parser.py:56(parsestr)
+        3    0.000    0.000    0.001    0.000 url.py:367(parse_url)
+       51    0.000    0.000    0.001    0.000 __init__.py:280(_compile)
+        2    0.000    0.000    0.000    0.000 cookiejar.py:1356(add_cookie_header)
+        1    0.000    0.000    3.913    3.913 financial.py:12(fetch_page)
+      185    0.000    0.000    0.001    0.000 <frozen _collections_abc>:868(__iter__)
+        2    0.000    0.000    0.000    0.000 models.py:658(__init__)
+        6    0.000    0.000    0.001    0.000 cookiejar.py:1680(extract_cookies)
+        2    0.000    0.000    0.000    0.000 {method 'write' of '_ssl._SSLSocket' objects}
+       40    0.000    0.000    0.000    0.000 _collections.py:300(add)
+        2    0.000    0.000    2.597    1.299 adapters.py:613(send)
+       10    0.000    0.000    0.000    0.000 socket.py:100(_intenum_converter)
+        1    0.000    0.000    0.000    0.000 {method 'getpeername' of '_socket.socket' objects}
+        2    0.000    0.000    0.000    0.000 response.py:577(__init__)
+        2    0.000    0.000    0.000    0.000 _parser.py:512(_parse)
+        1    0.000    0.000    8.921    8.921 financial.py:51(get_financial_data)
+      6/2    0.000    0.000    0.000    0.000 _compiler.py:37(_compile)
+        6    0.000    0.000    0.000    0.000 cookiejar.py:1261(__init__)
+        2    0.000    0.000    0.000    0.000 _collections.py:141(clear)
+        2    0.000    0.000    0.006    0.003 parser.py:41(parse)
+       65    0.000    0.000    0.000    0.000 {method 'split' of 'str' objects}
+        8    0.000    0.000    0.001    0.000 cookies.py:35(__init__)
+       48    0.000    0.000    0.000    0.000 feedparser.py:77(readline)
+        2    0.000    0.000    0.000    0.000 {built-in method _io.open_code}
+        1    0.000    0.000    0.005    0.005 sessions.py:457(prepare_request)
+       25    0.000    0.000    0.000    0.000 <frozen _collections_abc>:892(__iter__)
+       22    0.000    0.000    0.000    0.000 <frozen _collections_abc>:804(get)
+       46    0.000    0.000    0.000    0.000 {method 'setdefault' of 'dict' objects}
+        2    0.000    0.000    0.000    0.000 message.py:243(get_payload)
+        6    0.000    0.000    0.001    0.000 cookiejar.py:1599(make_cookies)
+        4    0.000    0.000    0.000    0.000 cookies.py:521(cookiejar_from_dict)
+        1    0.000    0.000    0.000    0.000 response.py:143(flush)
+        2    0.000    0.000    0.003    0.002 utils.py:204(get_netrc_auth)
+        2    0.000    0.000    0.000    0.000 socket.py:221(__init__)
+       44    0.000    0.000    0.000    0.000 {method 'popleft' of 'collections.deque' objects}
+        2    0.000    0.000    2.590    1.295 connectionpool.py:377(_make_request)
+       10    0.000    0.000    0.000    0.000 cookiejar.py:1227(deepvalues)
+        1    0.000    0.000    0.000    0.000 response.py:118(__init__)
+        2    0.000    0.000    0.001    0.001 _collections.py:240(__init__)
+        2    0.000    0.000    0.000    0.000 client.py:442(flush)
+       12    0.000    0.000    0.000    0.000 client.py:1064(_output)
+       43    0.000    0.000    1.076    0.025 response.py:1044(stream)
+        1    0.000    0.000    0.215    0.215 __init__.py:122(__init__)
+       20    0.000    0.000    0.000    0.000 parse.py:164(hostname)
+       51    0.000    0.000    0.002    0.000 parser.py:123(set_cdata_mode)
+       32    0.000    0.000    0.000    0.000 structures.py:51(__getitem__)
+       43    0.000    0.000    1.076    0.025 models.py:816(generate)
+       65    0.000    0.000    0.000    0.000 {method 'items' of 'dict' objects}
+        2    0.000    0.000    0.000    0.000 response.py:252(put)
+        3    0.000    0.000    0.002    0.001 utils.py:765(should_bypass_proxies)
+        2    0.000    0.000    0.000    0.000 typing.py:392(inner)
+       45    0.000    0.000    0.000    0.000 {method 'lstrip' of 'str' objects}
+        1    0.000    0.000    0.227    0.227 connection.py:192(_new_conn)
+        4    0.000    0.000    0.000    0.000 <frozen posixpath>:256(expanduser)
+        2    0.000    0.000    0.000    0.000 models.py:85(path_url)
+       25    0.000    0.000    0.000    0.000 threading.py:299(__enter__)
+        3    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1593(find_spec)
+        1    0.000    0.000    0.654    0.654 ssl.py:449(wrap_socket)
+        2    0.000    0.000    1.464    0.732 client.py:291(_read_status)
+        6    0.000    0.000    0.001    0.000 cookies.py:124(extract_cookies_to_jar)
+        2    0.000    0.000    0.000    0.000 feedparser.py:137(__init__)
+        1    0.000    0.000    0.655    0.655 connection.py:846(_ssl_wrap_socket_and_match_hostname)
+       52    0.000    0.000    0.001    0.000 _policybase.py:319(header_fetch_parse)
+        2    0.000    0.000    0.001    0.000 client.py:1136(putrequest)
+        4    0.000    0.000    0.005    0.001 feedparser.py:171(feed)
+       10    0.000    0.000    0.002    0.000 structures.py:40(__init__)
+       16    0.000    0.000    0.000    0.000 enum.py:726(__call__)
+        2    0.000    0.000    0.000    0.000 message.py:483(items)
+        2    0.000    0.000    0.000    0.000 response.py:9(is_fp_closed)
+        2    0.000    0.000    0.000    0.000 _collections.py:93(__getitem__)
+        2    0.000    0.000    0.000    0.000 feedparser.py:52(__init__)
+       25    0.000    0.000    0.000    0.000 {method 'replace' of 'str' objects}
+      225    0.000    0.000    0.001    0.000 <frozen abc>:117(__instancecheck__)
+        2    0.000    0.000    0.000    0.000 socket.py:304(makefile)
+       97    0.000    0.000    0.000    0.000 {method 'rindex' of 'str' objects}
+       23    0.000    0.000    0.000    0.000 <frozen os>:762(encode)
+        3    0.000    0.000    0.000    0.000 url.py:263(_remove_path_dot_segments)
+        6    0.000    0.000    0.000    0.000 {method 'read' of '_io.StringIO' objects}
+        2    0.000    0.000    0.000    0.000 response.py:1124(supports_chunked_reads)
+        1    0.000    0.000    0.000    0.000 {function socket.close at 0x7f1cccd46e80}
+        2    0.000    0.000    0.000    0.000 _parser.py:452(_parse_sub)
+        2    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap_external>:1062(get_code)
+        1    0.000    0.000    0.000    0.000 ssl.py:1309(_real_close)
+       56    0.000    0.000    0.002    0.000 _htmlparser.py:90(handle_startendtag)
+        2    0.000    0.000    0.001    0.001 _compiler.py:740(compile)
+        2    0.000    0.000    0.171    0.086 response.py:864(_raw_read)
+        2    0.000    0.000    0.006    0.003 client.py:231(_parse_header_lines)
+        1    0.000    0.000    3.691    3.691 sessions.py:500(request)
+        2    0.000    0.000    0.002    0.001 adapters.py:359(build_response)
+       12    0.000    0.000    0.000    0.000 queue.py:254(_get)
+        7    0.000    0.000    0.000    0.000 {method 'settimeout' of '_socket.socket' objects}
+        9    0.000    0.000    0.000    0.000 url.py:330(_idna_encode)
+        1    0.000    0.000    0.000    0.000 {method 'register' of 'select.poll' objects}
+        2    0.000    0.000    0.000    0.000 response.py:316(__init__)
+        2    0.000    0.000    0.000    0.000 url.py:349(_encode_target)
+        5    0.000    0.000    0.000    0.000 url.py:301(_normalize_host)
+        8    0.000    0.000    0.000    0.000 message.py:596(get_content_type)
+        2    0.000    0.000    0.000    0.000 utils.py:514(_parse_content_type_header)
+        2    0.000    0.000    0.000    0.000 ssl.py:1200(sendall)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:806(module_from_spec)
+       11    0.000    0.000    0.000    0.000 {method 'acquire' of '_thread.RLock' objects}
+        7    0.000    0.000    0.001    0.000 sessions.py:61(merge_setting)
+       11    0.000    0.000    0.000    0.000 {built-in method builtins.any}
+       40    0.000    0.000    0.000    0.000 message.py:511(set_raw)
+        1    0.000    0.000    0.000    0.000 {built-in method today}
+       14    0.000    0.000    0.000    0.000 {built-in method time.time}
+        1    0.000    0.000    0.171    0.171 response.py:916(read)
+        2    0.000    0.000    0.001    0.000 adapters.py:546(request_url)
+        1    0.000    0.000    0.224    0.224 socket.py:946(getaddrinfo)
+        3    0.000    0.000    0.000    0.000 client.py:430(close)
+        2    0.000    0.000    0.001    0.000 __init__.py:71(search_function)
+      159    0.000    0.000    0.000    0.000 {built-in method builtins.ord}
+        4    0.000    0.000    0.000    0.000 utils.py:838(select_proxy)
+       14    0.000    0.000    0.000    0.000 <frozen _collections_abc>:811(__contains__)
+        6    0.000    0.000    0.000    0.000 connection.py:163(host)
+        2    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap>:1240(_find_spec)
+        2    0.000    0.000    0.882    0.441 connectionpool.py:1085(_validate_conn)
+       17    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:126(_path_join)
+      123    0.000    0.000    0.000    0.000 element.py:1543(get)
+        1    0.000    0.000    3.692    3.692 api.py:14(request)
+       17    0.000    0.000    0.001    0.000 {method 'decode' of 'bytearray' objects}
+        1    0.000    0.000    0.001    0.001 sessions.py:390(__init__)
+        1    0.000    0.000    3.692    3.692 api.py:62(get)
+        6    0.000    0.000    0.004    0.001 feedparser.py:176(_call_parse)
+       34    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+        1    0.000    0.000    0.000    0.000 connectionpool.py:175(__init__)
+       10    0.000    0.000    0.000    0.000 {method 'fullmatch' of 're.Pattern' objects}
+       72    0.000    0.000    0.000    0.000 {method 'partition' of 'str' objects}
+        2    0.000    0.000    0.003    0.002 <frozen importlib._bootstrap>:1349(_find_and_load)
+        1    0.000    0.000    0.001    0.001 models.py:409(prepare_url)
+       13    0.000    0.000    0.000    0.000 queue.py:154(get)
+        2    0.000    0.000    0.000    0.000 adapters.py:202(__init__)
+        2    0.000    0.000    1.704    0.852 client.py:1384(getresponse)
+        7    0.000    0.000    0.000    0.000 utils.py:345(to_key_val_list)
+        6    0.000    0.000    0.001    0.000 contextlib.py:141(__exit__)
+       24    0.000    0.000    0.000    0.000 threading.py:394(notify)
+       10    0.000    0.000    0.000    0.000 {method 'subn' of 're.Pattern' objects}
+        1    0.000    0.000    0.000    0.000 ssl.py:504(set_alpn_protocols)
+        8    0.000    0.000    0.001    0.000 _htmlparser.py:182(handle_charref)
+        1    0.000    0.000    0.000    0.000 socket.py:506(detach)
+        2    0.000    0.000    0.002    0.001 adapters.py:446(get_connection_with_tls_context)
+        2    0.000    0.000    0.000    0.000 socket.py:770(close)
+        2    0.000    0.000    0.001    0.001 poolmanager.py:305(connection_from_context)
+        2    0.000    0.000    0.000    0.000 retry.py:387(is_retry)
+        7    0.000    0.000    0.000    0.000 structures.py:57(__iter__)
+        2    0.000    0.000    0.000    0.000 _compiler.py:573(_code)
+       23    0.000    0.000    0.000    0.000 util.py:19(to_str)
+        1    0.000    0.000    0.000    0.000 response.py:256(get)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:304(acquire)
+        8    0.000    0.000    0.000    0.000 message.py:29(_splitparam)
+        5    0.000    0.000    1.082    0.216 models.py:890(content)
+        7    0.000    0.000    0.000    0.000 timeout.py:109(__init__)
+        4    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:482(cache_from_source)
+        2    0.000    0.000    0.000    0.000 _compiler.py:511(_compile_info)
+        1    0.000    0.000    0.653    0.653 ssl.py:1313(do_handshake)
+        2    0.000    0.000    0.170    0.085 client.py:463(read)
+       51    0.000    0.000    0.000    0.000 enum.py:202(__get__)
+        2    0.000    0.000    0.000    0.000 retry.py:202(__init__)
+        6    0.000    0.000    0.000    0.000 contextlib.py:104(__init__)
+        1    0.000    0.000    0.001    0.001 models.py:351(prepare)
+       25    0.000    0.000    0.000    0.000 {method 'split' of 'bytes' objects}
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:426(_get_module_lock)
+        6    0.000    0.000    0.000    0.000 response.py:741(_error_catcher)
+       35    0.000    0.000    0.000    0.000 structures.py:58(<genexpr>)
+        2    0.000    0.000    0.001    0.001 poolmanager.py:276(connection_from_host)
+        3    0.000    0.000    0.000    0.000 url.py:100(__new__)
+       16    0.000    0.000    0.000    0.000 enum.py:1129(__new__)
+        3    0.000    0.000    0.000    0.000 idna.py:155(encode)
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+        2    0.000    0.000    0.000    0.000 response.py:40(assert_header_parsing)
+        2    0.000    0.000    0.001    0.000 connection.py:335(putrequest)
+        4    0.000    0.000    0.000    0.000 parse.py:413(_splitnetloc)
+        2    0.000    0.000    0.000    0.000 adapters.py:90(_urllib3_request_context)
+        2    0.000    0.000    0.000    0.000 client.py:261(__init__)
+       51    0.000    0.000    0.001    0.000 __init__.py:226(compile)
+       38    0.000    0.000    0.000    0.000 {method 'rpartition' of 'str' objects}
+       42    0.000    0.000    0.000    0.000 _collections.py:289(__iter__)
+        2    0.000    0.000    0.001    0.000 cookies.py:140(get_cookie_header)
+    44/14    0.000    0.000    0.000    0.000 <frozen abc>:121(__subclasscheck__)
+        2    0.000    0.000    0.002    0.001 <frozen importlib._bootstrap>:911(_load_unlocked)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1183(get_data)
+        1    0.000    0.000    0.000    0.000 __init__.py:484(reset)
+       49    0.000    0.000    0.000    0.000 _parser.py:168(__getitem__)
+        2    0.000    0.000    0.000    0.000 {method 'poll' of 'select.poll' objects}
+        6    0.000    0.000    0.000    0.000 utils.py:743(set_environ)
+        2    0.000    0.000    0.001    0.000 poolmanager.py:330(connection_from_pool_key)
+        4    0.000    0.000    0.000    0.000 response.py:641(release_conn)
+  164/162    0.000    0.000    0.000    0.000 element.py:2203(_normalize_search_value)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:733(_init_module_attrs)
+        1    0.000    0.000    0.000    0.000 __init__.py:61(lookup)
+        6    0.000    0.000    0.000    0.000 contextlib.py:299(helper)
+        2    0.000    0.000    0.000    0.000 client.py:1320(endheaders)
+        1    0.000    0.000    0.002    0.002 utils.py:864(resolve_proxies)
+        1    0.000    0.000    0.214    0.214 parser.py:104(feed)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1491(_get_spec)
+       10    0.000    0.000    0.000    0.000 connection.py:404(<genexpr>)
+        2    0.000    0.000    0.000    0.000 poolmanager.py:199(__init__)
+        2    0.000    0.000    0.000    0.000 request.py:191(body_to_chunks)
+        4    0.000    0.000    0.000    0.000 _compiler.py:243(_optimize_charset)
+        2    0.000    0.000    0.000    0.000 client.py:1027(send)
+        2    0.000    0.000    0.003    0.001 <frozen importlib._bootstrap>:1304(_find_and_load_unlocked)
+        4    0.000    0.000    0.000    0.000 enum.py:1562(__and__)
+        2    0.000    0.000    0.000    0.000 _parser.py:969(parse)
+       25    0.000    0.000    0.000    0.000 {method '__enter__' of '_thread.lock' objects}
+        3    0.000    0.000    0.000    0.000 cookies.py:542(merge_cookies)
+        2    0.000    0.000    0.000    0.000 response.py:685(_init_length)
+        2    0.000    0.000    0.000    0.000 client.py:1082(_send_output)
+        2    0.000    0.000    0.000    0.000 adapters.py:240(init_poolmanager)
+        2    0.000    0.000    0.000    0.000 __init__.py:43(normalize_encoding)
+        2    0.000    0.000    0.000    0.000 socket.py:681(__init__)
+        1    0.000    0.000    0.000    0.000 client.py:865(__init__)
+        1    0.000    0.000    0.000    0.000 connectionpool.py:1044(_new_conn)
+        5    0.000    0.000    0.000    0.000 {function SocketIO.close at 0x7f1cccd47b00}
+        2    0.000    0.000    0.000    0.000 {method 'close' of '_io.BufferedReader' objects}
+      6/2    0.000    0.000    0.000    0.000 _parser.py:178(getwidth)
+       20    0.000    0.000    0.000    0.000 connection.py:357(<genexpr>)
+        2    0.000    0.000    0.000    0.000 parse.py:509(urlunparse)
+       25    0.000    0.000    0.000    0.000 threading.py:302(__exit__)
+       20    0.000    0.000    0.000    0.000 {built-in method builtins.min}
+        1    0.000    0.000    0.001    0.001 netrc.py:1(<module>)
+        2    0.000    0.000    0.000    0.000 poolmanager.py:374(_merge_pool_kwargs)
+       24    0.000    0.000    0.000    0.000 {method 'acquire' of '_thread.lock' objects}
+        2    0.000    0.000    0.002    0.001 <frozen importlib._bootstrap_external>:989(exec_module)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:802(spec_from_file_location)
+        3    0.000    0.000    0.000    0.000 utils.py:774(get_proxy)
+        4    0.000    0.000    0.000    0.000 timeout.py:188(clone)
+        1    0.000    0.000    0.002    0.002 sessions.py:302(rebuild_proxies)
+        8    0.000    0.000    0.000    0.000 threading.py:124(RLock)
+        1    0.000    0.000    0.000    0.000 {method 'flush' of 'zlib.Decompress' objects}
+        2    0.000    0.000    0.001    0.000 connectionpool.py:256(_get_conn)
+        1    0.000    0.000    0.000    0.000 models.py:483(prepare_headers)
+        2    0.000    0.000    0.000    0.000 client.py:425(_close_conn)
+        4    0.000    0.000    0.000    0.000 <frozen genericpath>:16(exists)
+       31    0.000    0.000    0.000    0.000 {method 'pop' of 'dict' objects}
+       36    0.000    0.000    0.000    0.000 <frozen _collections_abc>:435(__subclasshook__)
+        2    0.000    0.000    0.000    0.000 utils.py:539(get_encoding_from_headers)
+        6    0.000    0.000    0.000    0.000 cookiejar.py:884(__init__)
+        2    0.000    0.000    0.000    0.000 {method '__exit__' of '_io._IOBase' objects}
+        2    0.000    0.000    0.000    0.000 parse.py:931(quote_from_bytes)
+       24    0.000    0.000    0.000    0.000 threading.py:314(_is_owned)
+        1    0.000    0.000    0.000    0.000 ssl.py:678(verify_mode)
+        5    0.000    0.000    0.000    0.000 <frozen _collections_abc>:819(keys)
+        2    0.000    0.000    0.000    0.000 feedparser.py:195(_new_message)
+        2    0.000    0.000    0.000    0.000 response.py:450(_init_decoder)
+        1    0.000    0.000    0.000    0.000 connection.py:93(_set_socket_options)
+       10    0.000    0.000    0.000    0.000 cookiejar.py:1753(__iter__)
+        1    0.000    0.000    0.000    0.000 wait.py:57(poll_wait_for_socket)
+        2    0.000    0.000    0.000    0.000 ssl.py:670(verify_mode)
+        4    0.000    0.000    0.000    0.000 <frozen _collections_abc>:940(pop)
+        2    0.000    0.000    0.000    0.000 sessions.py:781(get_adapter)
+        2    0.000    0.000    0.000    0.000 utils.py:660(requote_uri)
+        1    0.000    0.000    0.000    0.000 sessions.py:794(close)
+        5    0.000    0.000    0.000    0.000 <frozen _collections_abc>:823(items)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:611(_get_cached)
+        4    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:132(_path_split)
+        4    0.000    0.000    0.000    0.000 typing.py:1465(__subclasscheck__)
+        3    0.000    0.000    0.000    0.000 __init__.py:1790(isEnabledFor)
+        6    0.000    0.000    0.000    0.000 contextlib.py:132(__enter__)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:372(release)
+        2    0.000    0.000    0.000    0.000 socket.py:490(_decref_socketios)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:74(__new__)
+        2    0.000    0.000    0.000    0.000 cookiejar.py:1734(clear_expired_cookies)
+       27    0.000    0.000    0.000    0.000 _parser.py:240(__next)
+        2    0.000    0.000    0.239    0.119 client.py:245(parse_headers)
+        1    0.000    0.000    0.654    0.654 ssl_.py:390(ssl_wrap_socket)
+        3    0.000    0.000    0.001    0.000 request.py:2542(proxy_bypass_environment)
+        1    0.000    0.000    0.000    0.000 utils.py:900(default_headers)
+        4    0.000    0.000    0.000    0.000 cookies.py:358(update)
+        2    0.000    0.000    0.000    0.000 feedparser.py:182(close)
+       12    0.000    0.000    0.000    0.000 {method 'upper' of 'str' objects}
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:751(_compile_bytecode)
+        1    0.000    0.000    0.001    0.001 sessions.py:750(merge_environment_settings)
+        2    0.000    0.000    0.002    0.001 utils.py:826(get_environ_proxies)
+        1    0.000    0.000    0.000    0.000 wait.py:82(_have_working_poll)
+        2    0.000    0.000    0.000    0.000 utils.py:636(unquote_unreserved)
+        2    0.000    0.000    0.000    0.000 adapters.py:536(close)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:445(cb)
+        2    0.000    0.000    0.000    0.000 client.py:947(_wrap_ipv6)
+        3    0.000    0.000    0.000    0.000 models.py:769(is_redirect)
+        2    0.000    0.000    0.000    0.000 feedparser.py:69(close)
+       10    0.000    0.000    0.000    0.000 {method 'count' of 'bytes' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method zlib.decompressobj}
+        2    0.000    0.000    0.000    0.000 sessions.py:799(mount)
+        2    0.000    0.000    0.000    0.000 parse.py:520(urlunsplit)
+       25    0.000    0.000    0.000    0.000 _parser.py:261(get)
+        3    0.000    0.000    0.000    0.000 {method 'pop' of 'collections.OrderedDict' objects}
+        1    0.000    0.000    0.000    0.000 weakref.py:568(__init__)
+       14    0.000    0.000    0.000    0.000 {method 'values' of 'dict' objects}
+        6    0.000    0.000    0.000    0.000 message.py:620(get_content_maintype)
+        1    0.000    0.000    0.000    0.000 _htmlparser.py:298(__init__)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1588(_get_spec)
+       13    0.000    0.000    0.000    0.000 {method 'values' of 'collections.OrderedDict' objects}
+        1    0.000    0.000    0.000    0.000 queue.py:34(__init__)
+        1    0.000    0.000    0.000    0.000 connectionpool.py:980(__init__)
+        1    0.000    0.000    0.000    0.000 poolmanager.py:229(_new_pool)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:124(setdefault)
+        2    0.000    0.000    0.000    0.000 parse.py:855(quote)
+        1    0.000    0.000    0.000    0.000 {method 'getsockopt' of '_socket.socket' objects}
+        2    0.000    0.000    0.000    0.000 poolmanager.py:267(clear)
+       32    0.000    0.000    0.000    0.000 {method 'isascii' of 'str' objects}
+       19    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:491(_verbose_message)
+        2    0.000    0.000    0.000    0.000 connectionpool.py:294(_put_conn)
+        3    0.000    0.000    0.000    0.000 structures.py:76(copy)
+        1    0.000    0.000    0.000    0.000 wait.py:95(wait_for_socket)
+        1    0.000    0.000    0.000    0.000 ssl_.py:464(is_ipaddress)
+        1    0.000    0.000    0.000    0.000 parse.py:672(unquote)
+       25    0.000    0.000    0.000    0.000 queue.py:248(_qsize)
+       21    0.000    0.000    0.000    0.000 _parser.py:176(append)
+        5    0.000    0.000    0.000    0.000 feedparser.py:121(pushlines)
+       12    0.000    0.000    0.000    0.000 queue.py:251(_put)
+        1    0.000    0.000    0.000    0.000 parser.py:256(parse_html_declaration)
+        4    0.000    0.000    0.000    0.000 connectionpool.py:346(_get_timeout)
+        2    0.000    0.000    0.000    0.000 _compiler.py:436(_get_literal_prefix)
+        1    0.000    0.000    0.000    0.000 _htmlparser.py:46(__init__)
+       12    0.000    0.000    0.000    0.000 enum.py:1544(_get_value)
+        1    0.000    0.000    0.000    0.000 models.py:258(__init__)
+        8    0.000    0.000    0.000    0.000 utils.py:1045(_validate_header_part)
+        1    0.000    0.000    0.000    0.000 response.py:499(_flush_decoder)
+        1    0.000    0.000    0.214    0.214 _htmlparser.py:372(feed)
+        3    0.000    0.000    0.000    0.000 __init__.py:1517(debug)
+       11    0.000    0.000    0.000    0.000 {method 'release' of '_thread.RLock' objects}
+        2    0.000    0.000    0.000    0.000 _collections.py:82(__init__)
+        2    0.000    0.000    0.170    0.085 response.py:807(_fp_read)
+        6    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:84(_unpack_uint32)
+        2    0.000    0.000    0.000    0.000 cookiejar.py:1297(_cookie_attrs)
+        1    0.000    0.000    0.000    0.000 models.py:106(_encode_params)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:162(__enter__)
+        1    0.000    0.000    0.000    0.000 models.py:494(prepare_body)
+        2    0.000    0.000    0.000    0.000 models.py:799(iter_content)
+        2    0.000    0.000    0.000    0.000 retry.py:379(_is_method_retryable)
+       51    0.000    0.000    0.000    0.000 enum.py:1292(value)
+        2    0.000    0.000    0.001    0.000 models.py:610(prepare_cookies)
+        1    0.000    0.000    0.000    0.000 idna.py:308(getregentry)
+        4    0.000    0.000    0.000    0.000 typing.py:1194(__instancecheck__)
+        2    0.000    0.000    0.000    0.000 client.py:396(_check_close)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:416(__enter__)
+        1    0.000    0.000    0.000    0.000 connection.py:566(__init__)
+       33    0.000    0.000    0.000    0.000 parse.py:108(_noop)
+        1    0.000    0.000    0.000    0.000 cp1252.py:1(<module>)
+        2    0.000    0.000    0.000    0.000 adapters.py:304(cert_verify)
+        1    0.000    0.000    0.000    0.000 _htmlparser.py:250(handle_decl)
+        1    0.000    0.000    0.007    0.007 financial.py:25(parse_financial_data)
+        3    0.000    0.000    0.000    0.000 sessions.py:107(get_redirect_target)
+        1    0.000    0.000    0.000    0.000 response.py:210(_get_decoder)
+        2    0.000    0.000    0.001    0.000 {built-in method builtins.__import__}
+        4    0.000    0.000    0.000    0.000 hooks.py:15(default_hooks)
+        6    0.000    0.000    0.000    0.000 utils.py:211(<genexpr>)
+        3    0.000    0.000    0.000    0.000 threading.py:277(__init__)
+        4    0.000    0.000    0.000    0.000 {built-in method builtins.max}
+        8    0.000    0.000    0.000    0.000 client.py:453(isclosed)
+        2    0.000    0.000    0.000    0.000 response.py:245(__init__)
+        2    0.000    0.000    0.000    0.000 ssl.py:1173(send)
+       10    0.000    0.000    0.000    0.000 <frozen _collections_abc>:845(__init__)
+       10    0.000    0.000    0.000    0.000 {method 'seek' of '_io.StringIO' objects}
+        1    0.000    0.000    0.000    0.000 {method 'setsockopt' of '_socket.socket' objects}
+        7    0.000    0.000    0.000    0.000 cp1252.py:14(decode)
+        1    0.000    0.000    0.000    0.000 utils.py:1018(get_auth_from_url)
+        1    0.000    0.000    0.000    0.000 connection.py:132(__init__)
+        5    0.000    0.000    0.000    0.000 <frozen _collections_abc>:104(_check_methods)
+        2    0.000    0.000    0.000    0.000 <frozen codecs>:94(__new__)
+        2    0.000    0.000    0.000    0.000 adapters.py:396(build_connection_pool_key_attributes)
+        2    0.000    0.000    0.001    0.000 {built-in method builtins.exec}
+        4    0.000    0.000    0.000    0.000 message.py:150(__init__)
+       10    0.000    0.000    0.000    0.000 {method '__exit__' of '_thread.RLock' objects}
+        1    0.000    0.000    0.000    0.000 __init__.py:139(__init__)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:666(_classify_pyc)
+        5    0.000    0.000    0.000    0.000 {method 'truncate' of '_io.StringIO' objects}
+        7    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:140(_path_stat)
+        3    0.000    0.000    0.000    0.000 element.py:2155(__init__)
+        1    0.000    0.000    0.000    0.000 sessions.py:333(rebuild_method)
+        1    0.000    0.000    0.000    0.000 {method '_set_alpn_protocols' of '_ssl._SSLContext' objects}
+        1    0.000    0.000    0.000    0.000 connectionpool.py:1170(_close_pool_connections)
+        6    0.000    0.000    0.000    0.000 {method 'groups' of 're.Match' objects}
+        4    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap>:480(_call_with_frames_removed)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+       21    0.000    0.000    0.000    0.000 timeout.py:130(_validate_timeout)
+        7    0.000    0.000    0.000    0.000 _internal_utils.py:25(to_native_string)
+        2    0.000    0.000    0.007    0.004 element.py:2013(find_all)
+        7    0.000    0.000    0.000    0.000 {built-in method _codecs.charmap_decode}
+        2    0.000    0.000    0.000    0.000 models.py:334(__init__)
+        7    0.000    0.000    0.000    0.000 {method 'extend' of 'list' objects}
+        5    0.000    0.000    0.000    0.000 {method 'extend' of 'collections.deque' objects}
+        2    0.000    0.000    0.000    0.000 timeout.py:245(read_timeout)
+        8    0.000    0.000    0.000    0.000 retry.py:242(<genexpr>)
+       25    0.000    0.000    0.000    0.000 {method '__exit__' of '_thread.lock' objects}
+        1    0.000    0.000    0.000    0.000 __init__.py:595(__init__)
+        4    0.000    0.000    0.000    0.000 utils.py:1034(check_header_validity)
+        1    0.000    0.000    8.921    8.921 financial.py:67(main)
+        2    0.000    0.000    0.000    0.000 hooks.py:22(dispatch_hook)
+        1    0.000    0.000    0.000    0.000 ssl_.py:180(resolve_cert_reqs)
+        4    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:645(parent)
+        1    0.000    0.000    0.000    0.000 ssl.py:441(_encode_hostname)
+        1    0.000    0.000    0.000    0.000 socket.py:516(family)
+        4    0.000    0.000    0.000    0.000 _compiler.py:216(_compile_charset)
+        1    0.000    0.000    0.000    0.000 _collections.py:100(__setitem__)
+        2    0.000    0.000    0.000    0.000 timeout.py:202(start_connect)
+        1    0.000    0.000    0.000    0.000 models.py:997(raise_for_status)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:232(__init__)
+        1    0.000    0.000    0.000    0.000 parser.py:86(__init__)
+        6    0.000    0.000    0.000    0.000 {method 'copy' of 'dict' objects}
+       10    0.000    0.000    0.000    0.000 {built-in method _imp.acquire_lock}
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:643(_check_name_wrapper)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1520(find_spec)
+        1    0.000    0.000    0.000    0.000 models.py:382(copy)
+        1    0.000    0.000    0.000    0.000 sessions.py:282(rebuild_auth)
+        2    0.000    0.000    0.000    0.000 cookiejar.py:1290(_cookies_for_request)
+        1    0.000    0.000    0.000    0.000 connectionpool.py:81(__init__)
+        2    0.000    0.000    0.000    0.000 message.py:331(set_payload)
+        2    0.000    0.000    0.000    0.000 parser.py:17(__init__)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:185(_path_abspath)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:134(<genexpr>)
+        1    0.000    0.000    0.000    0.000 sessions.py:454(__exit__)
+        4    0.000    0.000    0.000    0.000 response.py:404(retries)
+       21    0.000    0.000    0.000    0.000 {built-in method _sre.unicode_iscased}
+       51    0.000    0.000    0.000    0.000 element.py:1624(__eq__)
+        5    0.000    0.000    0.000    0.000 timeout.py:126(resolve_default_timeout)
+        1    0.000    0.000    0.000    0.000 sessions.py:91(merge_hooks)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:180(_path_isabs)
+        2    0.000    0.000    0.000    0.000 _parser.py:231(__init__)
+        4    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+        4    0.000    0.000    0.000    0.000 <frozen posixpath>:41(_get_sep)
+        4    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:632(cached)
+        1    0.000    0.000    0.000    0.000 models.py:207(register_hook)
+       14    0.000    0.000    0.000    0.000 _parser.py:164(__len__)
+        2    0.000    0.000    0.000    0.000 {method 'rstrip' of 'bytes' objects}
+        1    0.000    0.000    0.000    0.000 connection.py:320(close)
+        1    0.000    0.000    0.000    0.000 connection.py:15(is_connection_dropped)
+        1    0.000    0.000    0.214    0.214 __init__.py:471(_feed)
+        1    0.000    0.000    0.000    0.000 connection.py:296(is_connected)
+        1    0.000    0.000    0.654    0.654 ssl_.py:488(_ssl_wrap_socket_impl)
+        1    0.000    0.000    0.000    0.000 models.py:588(prepare_auth)
+       39    0.000    0.000    0.000    0.000 __init__.py:609(__missing__)
+        2    0.000    0.000    0.000    0.000 _compiler.py:407(_generate_overlap_table)
+       10    0.000    0.000    0.000    0.000 {built-in method posix.fspath}
+        1    0.000    0.000    0.000    0.000 parser.py:96(reset)
+        4    0.000    0.000    0.000    0.000 {method 'isalpha' of 'str' objects}
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:699(_validate_timestamp_pyc)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:82(remove)
+        2    0.000    0.000    0.000    0.000 parse.py:175(port)
+        2    0.000    0.000    0.000    0.000 {built-in method _imp.is_builtin}
+        2    0.000    0.000    0.000    0.000 {method 'write' of '_io.BytesIO' objects}
+        1    0.000    0.000    0.000    0.000 wait.py:113(wait_for_read)
+        2    0.000    0.000    0.000    0.000 adapters.py:140(__init__)
+        4    0.000    0.000    0.000    0.000 parse.py:421(_checknetloc)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:420(__exit__)
+        1    0.000    0.000    0.000    0.000 socket.py:522(type)
+        1    0.000    0.000    0.000    0.000 socket.py:496(_real_close)
+        2    0.000    0.000    0.000    0.000 {method 'clear' of 'collections.OrderedDict' objects}
+        3    0.000    0.000    0.000    0.000 {built-in method sys.audit}
+        2    0.000    0.000    0.000    0.000 {method 'sort' of 'list' objects}
+        1    0.000    0.000    0.000    0.000 cookies.py:428(copy)
+        2    0.000    0.000    0.000    0.000 feedparser.py:208(_pop_message)
+        1    0.000    0.000    0.000    0.000 cp1252.py:33(getregentry)
+        1    0.000    0.000    0.000    0.000 models.py:393(prepare_method)
+        1    0.000    0.000    0.000    0.000 timeout.py:172(from_float)
+        6    0.000    0.000    0.000    0.000 _htmlparser.py:222(handle_entityref)
+       12    0.000    0.000    0.000    0.000 cookies.py:117(info)
+        5    0.000    0.000    0.000    0.000 element.py:273(get_text)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:79(__init__)
+        4    0.000    0.000    0.000    0.000 <frozen _collections_abc>:549(__subclasshook__)
+        1    0.000    0.000    0.000    0.000 models.py:1026(close)
+        2    0.000    0.000    0.000    0.000 response.py:1092(closed)
+        2    0.000    0.000    0.007    0.004 element.py:1987(find)
+        8    0.000    0.000    0.000    0.000 cookiejar.py:44(_debug)
+        4    0.000    0.000    0.000    0.000 {method 'find' of 'bytearray' objects}
+        2    0.000    0.000    0.000    0.000 {method 'append' of 'collections.deque' objects}
+        4    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1469(_path_importer_cache)
+        2    0.000    0.000    0.000    0.000 {built-in method _sre.compile}
+        1    0.000    0.000    0.000    0.000 utils.py:891(default_user_agent)
+        2    0.000    0.000    0.000    0.000 client.py:1267(_validate_method)
+        6    0.000    0.000    0.000    0.000 _parser.py:293(tell)
+        1    0.000    0.000    0.000    0.000 wait.py:74(do_poll)
+       10    0.000    0.000    0.000    0.000 element.py:1417(_all_strings)
+        2    0.000    0.000    0.000    0.000 {method 'cast' of 'memoryview' objects}
+       10    0.000    0.000    0.000    0.000 {built-in method _imp.release_lock}
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1202(path_stats)
+       16    0.000    0.000    0.000    0.000 {method 'isalnum' of 'str' objects}
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:982(find_spec)
+        1    0.000    0.000    0.000    0.000 models.py:630(prepare_hooks)
+        3    0.000    0.000    0.000    0.000 response.py:344(<genexpr>)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:48(_new_module)
+        4    0.000    0.000    0.000    0.000 _compiler.py:398(_simple)
+        2    0.000    0.000    0.000    0.000 <string>:1(<lambda>)
+        1    0.000    0.000    0.000    0.000 client.py:1013(close)
+        3    0.000    0.000    0.000    0.000 {method 'gettimeout' of '_socket.socket' objects}
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:1128(find_spec)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:159(_path_isfile)
+        4    0.000    0.000    0.000    0.000 message.py:211(is_multipart)
+        2    0.000    0.000    0.000    0.000 client.py:1263(_encode_request)
+        1    0.000    0.000    0.000    0.000 weakref.py:585(__call__)
+        2    0.000    0.000    0.000    0.000 request.py:136(set_file_position)
+        5    0.000    0.000    0.000    0.000 {method 'items' of 'collections.OrderedDict' objects}
+        6    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:1226(__exit__)
+        3    0.000    0.000    0.000    0.000 element.py:2422(__init__)
+        2    0.000    0.000    0.000    0.000 {built-in method _imp.find_frozen}
+        4    0.000    0.000    0.000    0.000 {method 'rfind' of 'str' objects}
+        3    0.000    0.000    0.000    0.000 _request_methods.py:51(__init__)
+        2    0.000    0.000    0.000    0.000 {function HTTPResponse.flush at 0x7f1cccc96a20}
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:173(__exit__)
+        1    0.000    0.000    0.000    0.000 response.py:91(is_response_to_head)
+        1    0.000    0.000    0.000    0.000 parse.py:338(geturl)
+        6    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:1222(__enter__)
+        4    0.000    0.000    0.000    0.000 _parser.py:372(_escape)
+        1    0.000    0.000    0.000    0.000 netrc.py:22(_netrclex)
+       10    0.000    0.000    0.000    0.000 _parser.py:256(match)
+        6    0.000    0.000    0.000    0.000 {built-in method from_bytes}
+        3    0.000    0.000    0.000    0.000 {built-in method _thread.allocate_lock}
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:150(_path_is_mode_type)
+        1    0.000    0.000    0.000    0.000 parse.py:156(username)
+        1    0.000    0.000    0.000    0.000 parse.py:958(urlencode)
+        7    0.000    0.000    0.000    0.000 element.py:387(_last_descendant)
+        6    0.000    0.000    0.000    0.000 cookies.py:110(__init__)
+        2    0.000    0.000    0.000    0.000 client.py:1276(_validate_path)
+        4    0.000    0.000    0.000    0.000 _parser.py:83(groups)
+        1    0.000    0.000    0.000    0.000 element.py:101(__new__)
+        3    0.000    0.000    0.000    0.000 {method 'remove' of 'list' objects}
+        2    0.000    0.000    0.000    0.000 {method 'update' of 'dict' objects}
+       11    0.000    0.000    0.000    0.000 {built-in method _sre.unicode_tolower}
+        2    0.000    0.000    0.000    0.000 structures.py:60(__len__)
+        4    0.000    0.000    0.000    0.000 connection.py:292(is_closed)
+        1    0.000    0.000    0.000    0.000 {method 'insert' of 'list' objects}
+        1    0.000    0.000    0.000    0.000 netrc.py:10(NetrcParseError)
+        5    0.000    0.000    0.000    0.000 timeout.py:227(connect_timeout)
+        4    0.000    0.000    0.000    0.000 response.py:249(__len__)
+        1    0.000    0.000    0.000    0.000 __init__.py:1776(getEffectiveLevel)
+        2    0.000    0.000    0.000    0.000 {built-in method select.poll}
+        1    0.000    0.000    0.000    0.000 {method 'flush' of '_io.BufferedReader' objects}
+        4    0.000    0.000    0.000    0.000 _compiler.py:570(isstring)
+        1    0.000    0.000    0.000    0.000 cookies.py:440(_copy_cookie_jar)
+        1    0.000    0.000    0.000    0.000 {built-in method _codecs.charmap_build}
+        1    0.000    0.000    0.000    0.000 connectionpool.py:1145(_normalize_host)
+        2    0.000    0.000    0.000    0.000 _parser.py:953(fix_flags)
+        4    0.000    0.000    0.000    0.000 {built-in method _thread.get_ident}
+        1    0.000    0.000    0.000    0.000 <frozen _collections_abc>:848(__len__)
+        1    0.000    0.000    0.000    0.000 connection.py:103(allowed_gai_family)
+        1    0.000    0.000    0.000    0.000 parse.py:193(_userinfo)
+        1    0.000    0.000    0.000    0.000 socket.py:500(close)
+        6    0.000    0.000    0.000    0.000 _parser.py:113(__init__)
+        1    0.000    0.000    0.000    0.000 {method 'extend' of 'bytearray' objects}
+        1    0.000    0.000    0.000    0.000 {method 'fileno' of '_socket.socket' objects}
+        1    0.000    0.000    0.000    0.000 element.py:614(find_next_siblings)
+        1    0.000    0.000    0.000    0.000 {method 'getvalue' of '_io.BytesIO' objects}
+        2    0.000    0.000    0.000    0.000 {built-in method time.monotonic}
+        1    0.000    0.000    0.000    0.000 {method 'append' of 'bytearray' objects}
+        2    0.000    0.000    0.000    0.000 {method 'update' of 'collections.OrderedDict' objects}
+        1    0.000    0.000    0.000    0.000 ssl.py:1087(_check_connected)
+        1    0.000    0.000    0.000    0.000 _htmlparser.py:323(prepare_markup)
+        1    0.000    0.000    0.000    0.000 connection.py:313(proxy_is_tunneling)
+        1    0.000    0.000    0.000    0.000 client.py:1284(_validate_host)
+        1    0.000    0.000    0.000    0.000 _markupbase.py:27(__init__)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:599(__init__)
+        1    0.000    0.000    0.000    0.000 _internal_utils.py:38(unicode_is_ascii)
+        1    0.000    0.000    0.000    0.000 connection.py:306(proxy_is_forwarding)
+        7    0.000    0.000    0.000    0.000 element.py:861(next_siblings)
+        2    0.000    0.000    0.000    0.000 _compiler.py:428(_get_iscased)
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.setattr}
+        1    0.000    0.000    0.000    0.000 {function socket.detach at 0x7f1cccd46f20}
+        2    0.000    0.000    0.000    0.000 {built-in method _weakref._remove_dead_weakref}
+        1    0.000    0.000    0.000    0.000 <frozen _collections_abc>:288(__subclasshook__)
+        2    0.000    0.000    0.000    0.000 cookies.py:87(get_new_headers)
+        1    0.000    0.000    0.000    0.000 _markupbase.py:32(reset)
+        1    0.000    0.000    0.000    0.000 {method 'copy' of 'collections.OrderedDict' objects}
+        2    0.000    0.000    0.000    0.000 _parser.py:77(__init__)
+        4    0.000    0.000    0.000    0.000 feedparser.py:124(__iter__)
+        1    0.000    0.000    0.000    0.000 __init__.py:234(_acquireLock)
+        1    0.000    0.000    0.000    0.000 __init__.py:554(_initialize_xml_detector)
+        4    0.000    0.000    0.000    0.000 _parser.py:172(__setitem__)
+        1    0.000    0.000    0.000    0.000 models.py:572(prepare_content_length)
+        2    0.000    0.000    0.000    0.000 proxy.py:11(connection_requires_http_tunnel)
+       10    0.000    0.000    0.000    0.000 {method 'add' of 'set' objects}
+        2    0.000    0.000    0.000    0.000 {built-in method _imp._fix_co_filename}
+        1    0.000    0.000    0.000    0.000 client.py:924(_get_hostport)
+        1    0.000    0.000    0.000    0.000 {method 'reverse' of 'list' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method atexit.register}
+        1    0.000    0.000    0.000    0.000 __init__.py:574(_root_tag_encountered)
+        1    0.000    0.000    0.000    0.000 __init__.py:243(_releaseLock)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1153(__init__)
+        1    0.000    0.000    0.000    0.000 queue.py:245(_init)
+        1    0.000    0.000    0.000    0.000 element.py:1590(__setitem__)
+        1    0.000    0.000    0.000    0.000 __init__.py:1369(disable)
+        2    0.000    0.000    0.000    0.000 __init__.py:211(deprecated_argument)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:412(__init__)
+        1    0.000    0.000    0.000    0.000 cp1252.py:9(Codec)
+        2    0.000    0.000    0.000    0.000 adapters.py:578(add_headers)
+        1    0.000    0.000    0.000    0.000 connection.py:182(host)
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.all}
+        3    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:71(_relax_case)
+        1    0.000    0.000    0.000    0.000 __init__.py:189(initialize_soup)
+        1    0.000    0.000    0.000    0.000 __init__.py:669(update)
+        1    0.000    0.000    0.000    0.000 parser.py:113(close)
+        2    0.000    0.000    0.000    0.000 connectionpool.py:337(_validate_conn)
+        2    0.000    0.000    0.000    0.000 typing.py:2154(cast)
+        1    0.000    0.000    0.000    0.000 element.py:1389(string)
+        1    0.000    0.000    0.000    0.000 {built-in method _socket.getdefaulttimeout}
+        1    0.000    0.000    0.000    0.000 cp1252.py:17(IncrementalEncoder)
+        2    0.000    0.000    0.000    0.000 __init__.py:197(reset)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1178(get_filename)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:653(has_location)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:158(__init__)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:986(create_module)
+        1    0.000    0.000    0.000    0.000 models.py:216(<genexpr>)
+        1    0.000    0.000    0.000    0.000 cookiejar.py:1269(set_policy)
+        1    0.000    0.000    0.000    0.000 cookies.py:435(get_policy)
+        1    0.000    0.000    0.000    0.000 sessions.py:451(__enter__)
+        1    0.000    0.000    0.000    0.000 {method 'pop' of 'set' objects}
+        1    0.000    0.000    0.000    0.000 cp1252.py:21(IncrementalDecoder)
+        1    0.000    0.000    0.000    0.000 cp1252.py:25(StreamWriter)
+        1    0.000    0.000    0.000    0.000 cp1252.py:28(StreamReader)
+
+
